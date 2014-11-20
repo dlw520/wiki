@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://c7511.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Great post: Envisioning the splinternet <a href="http://cmp.hku.hk/2014/11/20/37261/" target="_BLANK">cmp.hku.hk/2014/11/20/37261/</a> via @cmphku "only choice 4 China: march forth &amp; make its insularity global." (2014年11月20日 23:28)
+ ---
 RT @botherder: We just launched <a href="https://resistsurveillance.org" target="_BLANK">resistsurveillance.org</a> with @EFF, @digiges, @privacyint and @amnesty. Resist to surveillance and scan your… (2014年11月20日 19:22)
  ---
 RT @Xinhua_Intl: @fryan @petrazlatevska We believe it is Chinese gov't legitimate right to decide which foreign company is not fit to do bu… (2014年11月20日 19:16)
@@ -110,6 +112,4 @@ RT @nytchinese: 25年前，捷克斯洛伐克通过天鹅绒革命摆脱共产�
 RT @phuslu: <a href="https://zh.greatfire.org/" target="_BLANK">zh.greatfire.org/</a> 声明 <a href="http://www.v2ex.com/signin?next=/t/147717" target="_BLANK">www.v2ex.com/signin</a> #qna (2014年11月20日 01:17)
  ---
 RT @badiucao: 活死人方宾兴的出场 将国际互联网大会这部史诗科幻片 推向高潮 <a href="https://twitter.com/badiucao/status/535043891792068608/photo/1" target="_BLANK">twitter.com/badiucao/status/535043891792068608/photo/1</a> (2014年11月19日 23:56)
- ---
-@Livid 什么叫暗处，我们所有网站不都被墙了么？<a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> 上的网站都是因为先被墙了才上列表的 (2014年11月19日 23:51)
  ---
