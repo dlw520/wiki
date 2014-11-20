@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://c7511.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+World Internet Conference: Has China overcome paranoia? <a href="http://www.bbc.co.uk/news/world-asia-china-30110297" target="_BLANK">www.bbc.co.uk/news/world-asia-china-30110297</a> (2014年11月21日 03:09)
+ ---
 RT @williamlong: 现在从百度搜索Google，会出现一个搜索结果“谷歌打不开100%成功修复方案 百度浏览器”，声称可以打开谷歌，下载安装测试了一下，其访问谷歌的时候是通过一个北京的服务器间接访问，的确可以打开谷歌及其相关服务，但访问的IP是百度服务器IP，登录… (2014年11月21日 01:04)
  ---
 "Never having known anything else, Chinese accept what they're given: social media focused on entertainment &amp; chat." <a href="http://www.bbc.com/news/world-asia-china-30110297" target="_BLANK">www.bbc.com/news/world-asia-china-30110297</a> (2014年11月20日 23:40)
@@ -110,6 +112,4 @@ RT @williamlong: 【乌镇互联网大会全面解禁境外网站】据BBC中文
 What ‘Democracy’ Means in China Is Not What Australia’s Abbott Thinks <a href="http://cn.nytimes.com/china/20141119/c19abbott/en-us/" target="_BLANK">cn.nytimes.com/china/20141119/c19abbott/en-us/</a> (2014年11月20日 01:34)
  ---
 RT @PaulCarsten: @adrianwan like, state media asking questions to nobody so they can film it as if it’s a dialogue fake. (2014年11月20日 01:27)
- ---
-RT @nytchinese: 25年前，捷克斯洛伐克通过天鹅绒革命摆脱共产党统治。今天，捷克人继续态度鲜明地反抗他们的总统，因为他称赞中国和俄罗斯的领导人，并表达对共产主义的怀念。<a href="http://cn.nytimes.com/europe/20141119/c19velvet/" target="_BLANK">cn.nytimes.com/europe/20141119/c19velvet/</a> (2014年11月20日 01:24)
  ---
