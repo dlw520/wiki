@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://c7511.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,7 +72,7 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-A 'System Bitch' Dissents <a href="http://flip.it/fufXl" target="_BLANK">flip.it/fufXl</a> story about a state media commentator labeled an outlier (2014年11月21日 03:11)
+A 'System Bitch' Dissents <a href="http://www.foreignpolicy.com/articles/2014/11/20/system_bitch_what_happens_when_a_chinese_state_media_employee_dissents_online" target="_BLANK">www.foreignpolicy.com/articles/2014/11/20/system_bitch_what_happens_when_a_chinese_state_media_employee_dissents_online</a> story about a state media commentator labeled an outlier (2014年11月21日 03:11)
  ---
 World Internet Conference: Has China overcome paranoia? <a href="http://www.bbc.co.uk/news/world-asia-china-30110297" target="_BLANK">www.bbc.co.uk/news/world-asia-china-30110297</a> (2014年11月21日 03:09)
  ---
