@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://c7511.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+A 'System Bitch' Dissents <a href="http://www.foreignpolicy.com/articles/2014/11/20/system_bitch_what_happens_when_a_chinese_state_media_employee_dissents_online" target="_BLANK">www.foreignpolicy.com/articles/2014/11/20/system_bitch_what_happens_when_a_chinese_state_media_employee_dissents_online</a> story about a state media commentator labeled an outlier (2014年11月21日 03:11)
+ ---
 World Internet Conference: Has China overcome paranoia? <a href="http://www.bbc.co.uk/news/world-asia-china-30110297" target="_BLANK">www.bbc.co.uk/news/world-asia-china-30110297</a> (2014年11月21日 03:09)
  ---
 RT @williamlong: 现在从百度搜索Google，会出现一个搜索结果“谷歌打不开100%成功修复方案 百度浏览器”，声称可以打开谷歌，下载安装测试了一下，其访问谷歌的时候是通过一个北京的服务器间接访问，的确可以打开谷歌及其相关服务，但访问的IP是百度服务器IP，登录… (2014年11月21日 01:04)
@@ -110,6 +112,4 @@ Rules and regs you must follow if you operate a website in China including makin
 RT @williamlong: 【乌镇互联网大会全面解禁境外网站】据BBC中文网报道，从19日凌晨起，到访世界互联网大会主办地乌镇的嘉宾、记者，甚至普通游客们都发现，他们可以使用面簿、推特、YouTube等原来在中国无法访问的国际社交网站了。据了解，只有登记成为乌镇专用的无线… (2014年11月20日 03:17)
  ---
 What ‘Democracy’ Means in China Is Not What Australia’s Abbott Thinks <a href="http://cn.nytimes.com/china/20141119/c19abbott/en-us/" target="_BLANK">cn.nytimes.com/china/20141119/c19abbott/en-us/</a> (2014年11月20日 01:34)
- ---
-RT @PaulCarsten: @adrianwan like, state media asking questions to nobody so they can film it as if it’s a dialogue fake. (2014年11月20日 01:27)
  ---
