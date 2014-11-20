@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @Bequelin: Two vicious state security trials tmr: veteran journalist Gao Yu &amp; Ilham Tohti's appeal. No rule of law for them. http://t.co… (2014年11月20日 19:10)
+ ---
 Chinese journalist facing life sentence for leaking to magazine <a href="http://www.theguardian.com/media/greenslade/2014/nov/20/chinese-journalist-facing-life-sentence-for-leaking-to-magazine?CMP=share_btn_tw" target="_BLANK">www.theguardian.com/media/greenslade/2014/nov/20/chinese-journalist-facing-life-sentence-for-leaking-to-magazine</a> Document 9: <a href="http://www.chinafile.com/document-9-chinafile-translation" target="_BLANK">www.chinafile.com/document-9-chinafile-translation</a> (2014年11月20日 19:05)
  ---
 GFW之父方滨兴讲座后杂想 <a href="http://www.jianshu.com/p/23700b1e8374?utm_content=buffer124b2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_BLANK">www.jianshu.com/p/23700b1e8374</a> (2014年11月20日 13:16)
@@ -113,6 +115,4 @@ Consensus with Censorship 审查是共识
 "world" internet conference in China (2014年11月19日 23:35)
  ---
 RT @austinramzy: @PaulCarsten so there was nobody answering questions, just reporters asking questions for the cameras? (2014年11月19日 21:56)
- ---
-RT @PaulCarsten: Oh my god. They are recording a fake press conference at the China World Internet Conference! <a href="https://twitter.com/PaulCarsten/status/535041547788492800/photo/1" target="_BLANK">twitter.com/PaulCarsten/status/535041547788492800/photo/1</a> (2014年11月19日 21:55)
  ---
