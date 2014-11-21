@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://c7511.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@fryan "we put in place an alternative solution for clients" What is it exactly? VPN for customers? (2014年11月21日 13:41)
+ ---
+@TProphet @jonrussell Blocked since June <a href="https://en.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access" target="_BLANK">en.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access</a> (2014年11月21日 13:40)
+ ---
 RT @Livid: 我想告诉深圳沃通 WoSign，你们正在用无可挽回的方式摧毁你们的商誉 <a href="http://www.v2ex.com/t/148012" target="_BLANK">www.v2ex.com/t/148012</a> (2014年11月21日 11:42)
  ---
 RT @fangshimin: 北京空气污染指数爆表，把APEC的损失夺回来。 <a href="https://twitter.com/fangshimin/status/535613703438073856/photo/1" target="_BLANK">twitter.com/fangshimin/status/535613703438073856/photo/1</a> (2014年11月21日 10:01)
@@ -107,8 +111,4 @@ Rule No. 1 for Tech's Fight With China: Don't Talk About Your Fight With China <
 近年来，随着网络监管更加严密，“翻墙”对于科研工作者来说早已是家常便饭。 <a href="http://news.sciencenet.cn/htmlnews/2014/11/307565.shtm" target="_BLANK">news.sciencenet.cn/htmlnews/2014/11/307565.shtm</a> GFW封的越多，墙上的洞就越大。 (2014年11月20日 12:20)
  ---
 RT @paopaonet: #兔泡泡Oo 网络监管拖了科学后腿：上月底，电子科技大学的一位研究人员在其博客上抱怨工信部关闭了他们没有备案的纯英文科学数据库网站。此事引发了广泛的讨论：在目前网络监管日益严厉的形势下，部分科学家希望网监对他们网开一面。<a href="http://t.co/m3" target="_BLANK">t.co/m3</a>… (2014年11月20日 12:18)
- ---
-RT @paopaonet: #泡泡报道 “有关百度启用加密搜索，重要的是百度是否值得信任。”网络自由权益机构Access Now的工作人员告诉泡泡：“如果百度将证书分享于第三方，这就给了用户虚假的安全感，在一些情况下，这比不加密更糟糕。”<a href="https://t.co/VoyXwj" target="_BLANK">t.co/VoyXwj</a>… (2014年11月20日 12:17)
- ---
-学生毕业礼撑黄伞，校长拒颁证书 视频 <a href="https://www.youtube.com/watch?v=Umr8VY8LMoI&feature=youtu.be" target="_BLANK">www.youtube.com/watch</a> (2014年11月20日 11:44)
  ---
