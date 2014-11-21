@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @fangshimin: 环球时报的社论说，中国互联网不是世界最大的局域网，因为中国互联网做得很大。这什么逻辑啊？局域网做得再大也是局域网，要不怎么叫世界最大。 <a href="https://twitter.com/fangshimin/status/535653863043252224/photo/1" target="_BLANK">twitter.com/fangshimin/status/535653863043252224/photo/1</a> (2014年11月22日 01:34)
+ ---
 RT @ogkeyser: @GreatFireChina Protests stalled?. Call, boycott &amp; bankrupt Bank of China, force Beijing to give us DEMOCRACY <a href="http://t.co/LRB" target="_BLANK">t.co/LRB</a>… (2014年11月22日 01:20)
  ---
 Yep. "Internet is a highly interdependent community with a common destiny". <a href="http://techcrunch.com/2014/11/20/worldinternetconference-declaration/" target="_BLANK">techcrunch.com/2014/11/20/worldinternetconference-declaration/</a> via @techcrunch (2014年11月21日 20:38)
@@ -111,6 +113,4 @@ Great post: Envisioning the splinternet <a href="http://cmp.hku.hk/2014/11/20/37
 RT @botherder: We just launched <a href="https://resistsurveillance.org" target="_BLANK">resistsurveillance.org</a> with @EFF, @digiges, @privacyint and @amnesty. Resist to surveillance and scan your… (2014年11月20日 19:22)
  ---
 RT @Xinhua_Intl: @fryan @petrazlatevska We believe it is Chinese gov't legitimate right to decide which foreign company is not fit to do bu… (2014年11月20日 19:16)
- ---
-RT @Bequelin: Two vicious state security trials tmr: veteran journalist Gao Yu &amp; Ilham Tohti's appeal. No rule of law for them. http://t.co… (2014年11月20日 19:10)
  ---
