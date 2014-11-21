@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://c7511.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @Livid: 我想告诉深圳沃通 WoSign，你们正在用无可挽回的方式摧毁你们的商誉 <a href="http://www.v2ex.com/t/148012" target="_BLANK">www.v2ex.com/t/148012</a> (2014年11月21日 11:42)
+ ---
 RT @fangshimin: 北京空气污染指数爆表，把APEC的损失夺回来。 <a href="https://twitter.com/fangshimin/status/535613703438073856/photo/1" target="_BLANK">twitter.com/fangshimin/status/535613703438073856/photo/1</a> (2014年11月21日 10:01)
  ---
 大学教授给辽宁日报的回复，原文已删除，缓存 <a href="https://webcache.googleusercontent.com/search?q=cache:myFLna6qq8EJ:guojianbin.blog.caixin.com/archives/78967+&cd=1&hl=en&ct=clnk&gl=us" target="_BLANK">webcache.googleusercontent.com/search</a> (2014年11月21日 09:45)
@@ -109,7 +111,4 @@ RT @paopaonet: #兔泡泡Oo 网络监管拖了科学后腿：上月底，电子�
 RT @paopaonet: #泡泡报道 “有关百度启用加密搜索，重要的是百度是否值得信任。”网络自由权益机构Access Now的工作人员告诉泡泡：“如果百度将证书分享于第三方，这就给了用户虚假的安全感，在一些情况下，这比不加密更糟糕。”<a href="https://t.co/VoyXwj" target="_BLANK">t.co/VoyXwj</a>… (2014年11月20日 12:17)
  ---
 学生毕业礼撑黄伞，校长拒颁证书 视频 <a href="https://www.youtube.com/watch?v=Umr8VY8LMoI&feature=youtu.be" target="_BLANK">www.youtube.com/watch</a> (2014年11月20日 11:44)
- ---
-RT @BBCTimFranks: If u in China, u prob can't see this. But this man says he can help <a href="https://soundcloud.com/bbc-world-service/how-to-evade-the-great-firewall-of-china" target="_BLANK">soundcloud.com/bbc-world-service/how-to-evade-the-great-firewall-of-china</a> @BBCNewshour
-@GreatFireChina (2014年11月20日 10:21)
  ---
