@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://c7511.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @CRTejada: Grand vision for China's Internet, in form of piece of paper slipped under hotel room door <a href="http://blogs.wsj.com/chinarealtime/2014/11/21/china-delivers-midnight-internet-declaration-offline/" target="_BLANK">blogs.wsj.com/chinarealtime/2014/11/21/china-delivers-midnight-internet-declaration-offline/</a> @jamestared… (2014年11月21日 20:03)
+ ---
+What a shitshow! Really, Lu Wei, it's time to get your act together. <a href="http://blogs.wsj.com/chinarealtime/2014/11/21/china-delivers-midnight-internet-declaration-offline/?mod=WSJBlog" target="_BLANK">blogs.wsj.com/chinarealtime/2014/11/21/china-delivers-midnight-internet-declaration-offline/</a> (2014年11月21日 20:01)
+ ---
 Telling that US @TheDemocrats site always blocked in China <a href="https://en.greatfire.org/www.democrats.org" target="_BLANK">en.greatfire.org/www.democrats.org</a> 
 but @GOP never been blocked 
 <a href="https://en.greatfire.org/www.gop.com" target="_BLANK">en.greatfire.org/www.gop.com</a> (2014年11月21日 16:52)
@@ -109,8 +113,4 @@ Chinese journalist facing life sentence for leaking to magazine <a href="http://
 GFW之父方滨兴讲座后杂想 <a href="http://www.jianshu.com/p/23700b1e8374?utm_content=buffer124b2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_BLANK">www.jianshu.com/p/23700b1e8374</a> (2014年11月20日 13:16)
  ---
 @fryan Screenshot at this very moment when a user tries to log in in China. Doesn't look working to me. <a href="https://twitter.com/GreatFireChina/status/535299652371755008/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/535299652371755008/photo/1</a> (2014年11月20日 13:12)
- ---
-Rule No. 1 for Tech's Fight With China: Don't Talk About Your Fight With China <a href="http://www.bloomberg.com/news/2014-11-19/rule-no-1-for-tech-s-fight-with-china-don-t-talk-about-your-fight-with-china.html" target="_BLANK">www.bloomberg.com/news/2014-11-19/rule-no-1-for-tech-s-fight-with-china-don-t-talk-about-your-fight-with-china.html</a> (2014年11月20日 12:24)
- ---
-近年来，随着网络监管更加严密，“翻墙”对于科研工作者来说早已是家常便饭。 <a href="http://news.sciencenet.cn/htmlnews/2014/11/307565.shtm" target="_BLANK">news.sciencenet.cn/htmlnews/2014/11/307565.shtm</a> GFW封的越多，墙上的洞就越大。 (2014年11月20日 12:20)
  ---
