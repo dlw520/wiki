@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @remonwangxt: 自甘五花千芳稱黨對互聯網的企圖是司马昭之心，这条微博成了近日最好玩的笑料，網友們紛紛以此為藍本活用造句，截圖自石扉客的公共微信號 <a href="https://twitter.com/remonwangxt/status/536137985406676993/photo/1" target="_BLANK">twitter.com/remonwangxt/status/536137985406676993/photo/1</a> (2014年11月22日 23:38)
+ ---
+RT @KenWong_: 今天是令人悲痛的一天。人人影视：正在清理内容。射手网：拜拜。 (2014年11月22日 23:37)
+ ---
 RT @freedomandlaw: 热心公益罪，如实报道罪，见义勇为罪，公民围观罪，倡导和解罪，晴天打伞罪，聚众吃喝罪，口吐真言罪，捍卫权利罪，依法起诉罪，正当防卫罪，宣传宪政罪，依法上访罪，滞留北京罪，庆贺反腐罪，观看美剧罪，违法上网罪，吃水饺不蘸醋罪等等，真让人罪生梦死，… (2014年11月22日 10:10)
  ---
 RT @fangshimin: 周小平在黑镇互联网大会上介绍梦游经验。 <a href="https://twitter.com/fangshimin/status/535642215142281216/photo/1" target="_BLANK">twitter.com/fangshimin/status/535642215142281216/photo/1</a> (2014年11月22日 09:25)
@@ -109,8 +113,4 @@ RT @fangshimin: 北京空气污染指数爆表，把APEC的损失夺回来。 <a
 RT @fangshimin: 这是2010年1月《环球时报》根据我的一篇网文和电话采访整理出来的一篇评论《别让中国成互联网孤岛》，登出后就被下令从网上删除，编辑还因此挨了批评。幸好那时候还没有鲁总管，我没有受到影响，只是这篇文章在我的国内博客上被隐藏而已。 http://t.… (2014年11月21日 08:35)
  ---
 A 'System Bitch' Dissents <a href="http://www.foreignpolicy.com/articles/2014/11/20/system_bitch_what_happens_when_a_chinese_state_media_employee_dissents_online" target="_BLANK">www.foreignpolicy.com/articles/2014/11/20/system_bitch_what_happens_when_a_chinese_state_media_employee_dissents_online</a> story about a state media commentator labeled an outlier (2014年11月21日 03:11)
- ---
-World Internet Conference: Has China overcome paranoia? <a href="http://www.bbc.co.uk/news/world-asia-china-30110297" target="_BLANK">www.bbc.co.uk/news/world-asia-china-30110297</a> (2014年11月21日 03:09)
- ---
-RT @williamlong: 现在从百度搜索Google，会出现一个搜索结果“谷歌打不开100%成功修复方案 百度浏览器”，声称可以打开谷歌，下载安装测试了一下，其访问谷歌的时候是通过一个北京的服务器间接访问，的确可以打开谷歌及其相关服务，但访问的IP是百度服务器IP，登录… (2014年11月21日 01:04)
  ---
