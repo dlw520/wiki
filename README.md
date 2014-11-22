@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @freedomandlaw: 热心公益罪，如实报道罪，见义勇为罪，公民围观罪，倡导和解罪，晴天打伞罪，聚众吃喝罪，口吐真言罪，捍卫权利罪，依法起诉罪，正当防卫罪，宣传宪政罪，依法上访罪，滞留北京罪，庆贺反腐罪，观看美剧罪，违法上网罪，吃水饺不蘸醋罪等等，真让人罪生梦死，… (2014年11月22日 10:10)
+ ---
 RT @fangshimin: 周小平在黑镇互联网大会上介绍梦游经验。 <a href="https://twitter.com/fangshimin/status/535642215142281216/photo/1" target="_BLANK">twitter.com/fangshimin/status/535642215142281216/photo/1</a> (2014年11月22日 09:25)
  ---
 RT @chengr28: 酷派手机被指悄悄推送应用 <a href="http://www.solidot.org/story?sid=41983" target="_BLANK">www.solidot.org/story</a> (2014年11月22日 04:24)
@@ -111,6 +113,4 @@ A 'System Bitch' Dissents <a href="http://www.foreignpolicy.com/articles/2014/11
 World Internet Conference: Has China overcome paranoia? <a href="http://www.bbc.co.uk/news/world-asia-china-30110297" target="_BLANK">www.bbc.co.uk/news/world-asia-china-30110297</a> (2014年11月21日 03:09)
  ---
 RT @williamlong: 现在从百度搜索Google，会出现一个搜索结果“谷歌打不开100%成功修复方案 百度浏览器”，声称可以打开谷歌，下载安装测试了一下，其访问谷歌的时候是通过一个北京的服务器间接访问，的确可以打开谷歌及其相关服务，但访问的IP是百度服务器IP，登录… (2014年11月21日 01:04)
- ---
-"Never having known anything else, Chinese accept what they're given: social media focused on entertainment &amp; chat." <a href="http://www.bbc.com/news/world-asia-china-30110297" target="_BLANK">www.bbc.com/news/world-asia-china-30110297</a> (2014年11月20日 23:40)
  ---
