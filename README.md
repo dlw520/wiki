@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @miharuya: 别跟我说这是版权的原因了，作为一名作者我很明白版权是干嘛用的。在这里版权就是个借口，搜狐买TBBT的版权了吧？哦但你不遵守我们的规则，所以你得下架，也就不谈什么裁判兼任选手下场比赛的话了。嗯，还记得那个猜拳的比喻吗？你出锤我出包，然后你跟我说这旮沓的… (2014年11月23日 08:49)
+ ---
 中国肇东教师大规模罢课 <a href="http://www.ftchinese.com/story/001059266" target="_BLANK">www.ftchinese.com/story/001059266</a> (2014年11月23日 04:49)
  ---
 Censor much? What to expect from the Great Firewall in 2015 <a href="http://philmuncaster.com/2014/11/21/censor-much-what-to-expect-from-the-great-firewall-in-2015/" target="_BLANK">philmuncaster.com/2014/11/21/censor-much-what-to-expect-from-the-great-firewall-in-2015/</a> (2014年11月23日 04:40)
@@ -111,6 +113,4 @@ but @GOP never been blocked
 <a href="https://en.greatfire.org/www.gop.com" target="_BLANK">en.greatfire.org/www.gop.com</a> (2014年11月21日 16:52)
  ---
 @fryan "we put in place an alternative solution for clients" What is it exactly? VPN for customers? (2014年11月21日 13:41)
- ---
-@TProphet @jonrussell Blocked since June <a href="https://en.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access" target="_BLANK">en.greatfire.org/blog/2014/jun/google-disrupted-prior-tiananmen-anniversary-mirror-sites-enable-uncensored-access</a> (2014年11月21日 13:40)
  ---
