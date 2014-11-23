@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,16 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+China adopts new strategy to cut off citizens from Internet <a href="http://thehill.com/policy/cybersecurity/224541-china-adopts-new-strategy-to-cut-off-citizens-from-internet" target="_BLANK">thehill.com/policy/cybersecurity/224541-china-adopts-new-strategy-to-cut-off-citizens-from-internet</a> (2014年11月23日 16:25)
+ ---
+RT @beidaijin: 中国竟然还有名次   出版自由排名：记者无疆界组织2014出版自由国家排名  1、芬兰 18加拿大 46 美国 148 俄罗斯 175 中国 <a href="https://twitter.com/beidaijin/status/536411358489620480/photo/1" target="_BLANK">twitter.com/beidaijin/status/536411358489620480/photo/1</a> (2014年11月23日 16:21)
+ ---
+RT @beidaijin: 新浪网友@滚叔说唱：「我做字幕三四年了，没赚过一分一毫，相信很多字幕君也跟我一样，只是出于对片子和翻译的热爱，心里又惦记着有人等着看，于是心甘情愿把自己无数业余时间奉献给了字幕。你们不引进不分级烂翻译，净想着折腾这些野生字幕算个什么JB事」 (2014年11月23日 16:21)
+ ---
+RT @chuhan: “有钱就是任性”说的是老大哥：只要经济坚挺，没什么不敢做的。 (2014年11月23日 16:16)
+ ---
+Many people are just starting to discover edgecast blocked and the economic impact is yet to be fully realized. <a href="http://yro.slashdot.org/story/14/11/23/0642241/great-firewall-of-china-blocks-edgecast-cdn-thousands-of-websites-affected" target="_BLANK">yro.slashdot.org/story/14/11/23/0642241/great-firewall-of-china-blocks-edgecast-cdn-thousands-of-websites-affected</a> (2014年11月23日 16:11)
+ ---
 封了这么多看片的，大家来互相分享一下没被封的吧~  <a href="https://v2ex.com/signin?next=/t/148621" target="_BLANK">v2ex.com/signin</a> (2014年11月23日 09:48)
  ---
 RT @miharuya: 别跟我说这是版权的原因了，作为一名作者我很明白版权是干嘛用的。在这里版权就是个借口，搜狐买TBBT的版权了吧？哦但你不遵守我们的规则，所以你得下架，也就不谈什么裁判兼任选手下场比赛的话了。嗯，还记得那个猜拳的比喻吗？你出锤我出包，然后你跟我说这旮沓的… (2014年11月23日 08:49)
@@ -101,16 +111,4 @@ RT @beijingscribe: China wants to change the world's Internet - At stake is the 
 RT @fangshimin: 环球时报的社论说，中国互联网不是世界最大的局域网，因为中国互联网做得很大。这什么逻辑啊？局域网做得再大也是局域网，要不怎么叫世界最大。 <a href="https://twitter.com/fangshimin/status/535653863043252224/photo/1" target="_BLANK">twitter.com/fangshimin/status/535653863043252224/photo/1</a> (2014年11月22日 01:34)
  ---
 RT @ogkeyser: @GreatFireChina Protests stalled?. Call, boycott &amp; bankrupt Bank of China, force Beijing to give us DEMOCRACY <a href="http://t.co/LRB" target="_BLANK">t.co/LRB</a>… (2014年11月22日 01:20)
- ---
-Yep. "Internet is a highly interdependent community with a common destiny". <a href="http://techcrunch.com/2014/11/20/worldinternetconference-declaration/" target="_BLANK">techcrunch.com/2014/11/20/worldinternetconference-declaration/</a> via @techcrunch (2014年11月21日 20:38)
- ---
-Tossed out weekend plans: Create Your Own Xi Jinping Yellow Umbrella Photoshop Masterpiece <a href="http://hongwrong.com/xi-jinping-photoshop/" target="_BLANK">hongwrong.com/xi-jinping-photoshop/</a> via @hongwrongblog (2014年11月21日 20:12)
- ---
-RT @CRTejada: Grand vision for China's Internet, in form of piece of paper slipped under hotel room door <a href="http://blogs.wsj.com/chinarealtime/2014/11/21/china-delivers-midnight-internet-declaration-offline/" target="_BLANK">blogs.wsj.com/chinarealtime/2014/11/21/china-delivers-midnight-internet-declaration-offline/</a> @jamestared… (2014年11月21日 20:03)
- ---
-What a shitshow! Really, Lu Wei, it's time to get your act together. <a href="http://blogs.wsj.com/chinarealtime/2014/11/21/china-delivers-midnight-internet-declaration-offline/?mod=WSJBlog" target="_BLANK">blogs.wsj.com/chinarealtime/2014/11/21/china-delivers-midnight-internet-declaration-offline/</a> (2014年11月21日 20:01)
- ---
-Telling that US @TheDemocrats site always blocked in China <a href="https://en.greatfire.org/www.democrats.org" target="_BLANK">en.greatfire.org/www.democrats.org</a> 
-but @GOP never been blocked 
-<a href="https://en.greatfire.org/www.gop.com" target="_BLANK">en.greatfire.org/www.gop.com</a> (2014年11月21日 16:52)
  ---
