@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+中国访问人人影视显示“YYeTs人人影视正在清理内容”，而美国访问却能显示全部内容。 <a href="https://zh.greatfire.org/www.yyets.com" target="_BLANK">zh.greatfire.org/www.yyets.com</a> 既然中国不会比美国更保护版权，那只能说是中国打压未审的美剧了。 (2014年11月24日 01:22)
+ ---
 RT @Stariver: 支持字幕组 <a href="https://twitter.com/Stariver/status/536509180077559808/photo/1" target="_BLANK">twitter.com/Stariver/status/536509180077559808/photo/1</a> (2014年11月24日 01:15)
  ---
 RT @niubi Wuzhen Global Internet Conference in the Context of Current Chinese Internet Company Practices <a href="http://blog.feichangdao.com/2014/11/placing-claims-made-about-wuzhen-global.html?m=1&mc_cid=2d2f5dfd5d&mc_eid=654fcbfcc5" target="_BLANK">blog.feichangdao.com/2014/11/placing-claims-made-about-wuzhen-global.html</a> classic (2014年11月23日 22:09)
@@ -109,6 +111,4 @@ RT @KenWong_: 今天是令人悲痛的一天。人人影视：正在清理内容
 RT @freedomandlaw: 热心公益罪，如实报道罪，见义勇为罪，公民围观罪，倡导和解罪，晴天打伞罪，聚众吃喝罪，口吐真言罪，捍卫权利罪，依法起诉罪，正当防卫罪，宣传宪政罪，依法上访罪，滞留北京罪，庆贺反腐罪，观看美剧罪，违法上网罪，吃水饺不蘸醋罪等等，真让人罪生梦死，… (2014年11月22日 10:10)
  ---
 RT @fangshimin: 周小平在黑镇互联网大会上介绍梦游经验。 <a href="https://twitter.com/fangshimin/status/535642215142281216/photo/1" target="_BLANK">twitter.com/fangshimin/status/535642215142281216/photo/1</a> (2014年11月22日 09:25)
- ---
-RT @chengr28: 酷派手机被指悄悄推送应用 <a href="http://www.solidot.org/story?sid=41983" target="_BLANK">www.solidot.org/story</a> (2014年11月22日 04:24)
  ---
