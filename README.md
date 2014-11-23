@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @niubi Wuzhen Global Internet Conference in the Context of Current Chinese Internet Company Practices <a href="http://blog.feichangdao.com/2014/11/placing-claims-made-about-wuzhen-global.html?m=1&mc_cid=2d2f5dfd5d&mc_eid=654fcbfcc5" target="_BLANK">blog.feichangdao.com/2014/11/placing-claims-made-about-wuzhen-global.html</a> classic (2014年11月23日 22:09)
+ ---
 RT @jason5ng32: 读初高中时，同学说我傻，因为老和他们讨论民主自由；大学时，同学又说我傻，因为老研究翻墙，看“反动”网站；后来我工作了，一个比我年长的朋友说我幼稚，老写愤青文章。现在，我到了这位朋友的年龄，我还那么幼稚，但自豪还如此幼稚。当你被生活和体制奴化时，你… (2014年11月23日 17:33)
  ---
 China adopts new strategy to cut off citizens from Internet <a href="http://thehill.com/policy/cybersecurity/224541-china-adopts-new-strategy-to-cut-off-citizens-from-internet" target="_BLANK">thehill.com/policy/cybersecurity/224541-china-adopts-new-strategy-to-cut-off-citizens-from-internet</a> (2014年11月23日 16:25)
@@ -109,6 +111,4 @@ RT @fangshimin: 周小平在黑镇互联网大会上介绍梦游经验。 <a hre
 RT @chengr28: 酷派手机被指悄悄推送应用 <a href="http://www.solidot.org/story?sid=41983" target="_BLANK">www.solidot.org/story</a> (2014年11月22日 04:24)
  ---
 RT @beijingscribe: China wants to change the world's Internet - At stake is the answer to this question: “Who is the Internet for?”  http:/… (2014年11月22日 04:23)
- ---
-RT @fangshimin: 环球时报的社论说，中国互联网不是世界最大的局域网，因为中国互联网做得很大。这什么逻辑啊？局域网做得再大也是局域网，要不怎么叫世界最大。 <a href="https://twitter.com/fangshimin/status/535653863043252224/photo/1" target="_BLANK">twitter.com/fangshimin/status/535653863043252224/photo/1</a> (2014年11月22日 01:34)
  ---
