@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @fangshimin: 记者无国界组织评价世界各国新闻审查严重程度，从轻到重的颜色分别是：白、黄、橙、红、黑。难怪世界中心在黑镇。 <a href="https://twitter.com/fangshimin/status/536571619439677440/photo/1" target="_BLANK">twitter.com/fangshimin/status/536571619439677440/photo/1</a> (2014年11月24日 01:54)
+ ---
 中国访问人人影视显示“YYeTs人人影视正在清理内容”，而美国访问却能显示全部内容。 <a href="https://zh.greatfire.org/www.yyets.com" target="_BLANK">zh.greatfire.org/www.yyets.com</a> 既然中国不会比美国更保护版权，那只能说是中国打压未审的美剧了。 (2014年11月24日 01:22)
  ---
 RT @Stariver: 支持字幕组 <a href="https://twitter.com/Stariver/status/536509180077559808/photo/1" target="_BLANK">twitter.com/Stariver/status/536509180077559808/photo/1</a> (2014年11月24日 01:15)
@@ -109,6 +111,4 @@ RT @remonwangxt: 自甘五花千芳稱黨對互聯網的企圖是司马昭之心
 RT @KenWong_: 今天是令人悲痛的一天。人人影视：正在清理内容。射手网：拜拜。 (2014年11月22日 23:37)
  ---
 RT @freedomandlaw: 热心公益罪，如实报道罪，见义勇为罪，公民围观罪，倡导和解罪，晴天打伞罪，聚众吃喝罪，口吐真言罪，捍卫权利罪，依法起诉罪，正当防卫罪，宣传宪政罪，依法上访罪，滞留北京罪，庆贺反腐罪，观看美剧罪，违法上网罪，吃水饺不蘸醋罪等等，真让人罪生梦死，… (2014年11月22日 10:10)
- ---
-RT @fangshimin: 周小平在黑镇互联网大会上介绍梦游经验。 <a href="https://twitter.com/fangshimin/status/535642215142281216/photo/1" target="_BLANK">twitter.com/fangshimin/status/535642215142281216/photo/1</a> (2014年11月22日 09:25)
  ---
