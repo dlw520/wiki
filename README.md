@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @goldkorn: Guangming Daily in praise of voluntary 50 Centers “自干五”是社会主义核心价值观的坚定践行者 ttp://news.xinhuanet.com/local/2014-11/15/c_111326259… (2014年11月25日 00:00)
+ ---
 We've unblocked @bbcchinese for all readers in China; coinciding w/in-depth coverage of Taiwan elections. <a href="https://en.greatfire.org/blog/2014/nov/bbc-and-greatfireorg-partner-deliver-uncensored-information-china" target="_BLANK">en.greatfire.org/blog/2014/nov/bbc-and-greatfireorg-partner-deliver-uncensored-information-china</a> (2014年11月24日 20:16)
  ---
 RT @mikko: We believe that the 'Regin' governmental espionage tool is NOT coming from Russia or China. <a href="https://www.f-secure.com/weblog/archives/00002766.html" target="_BLANK">www.f-secure.com/weblog/archives/00002766.html</a> http://t.co/… (2014年11月24日 19:54)
@@ -109,6 +111,4 @@ RT @chuhan: “有钱就是任性”说的是老大哥：只要经济坚挺，�
 Many people are just starting to discover edgecast blocked and the economic impact is yet to be fully realized. <a href="http://yro.slashdot.org/story/14/11/23/0642241/great-firewall-of-china-blocks-edgecast-cdn-thousands-of-websites-affected" target="_BLANK">yro.slashdot.org/story/14/11/23/0642241/great-firewall-of-china-blocks-edgecast-cdn-thousands-of-websites-affected</a> (2014年11月23日 16:11)
  ---
 封了这么多看片的，大家来互相分享一下没被封的吧~  <a href="https://v2ex.com/signin?next=/t/148621" target="_BLANK">v2ex.com/signin</a> (2014年11月23日 09:48)
- ---
-RT @miharuya: 别跟我说这是版权的原因了，作为一名作者我很明白版权是干嘛用的。在这里版权就是个借口，搜狐买TBBT的版权了吧？哦但你不遵守我们的规则，所以你得下架，也就不谈什么裁判兼任选手下场比赛的话了。嗯，还记得那个猜拳的比喻吗？你出锤我出包，然后你跟我说这旮沓的… (2014年11月23日 08:49)
  ---
