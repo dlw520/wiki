@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+.@GreatFireChina gives mainland China access to BBC Chinese uncensored news and Taiwan local election coverage <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a>. (2014年11月25日 06:29)
+ ---
 RT @paopaonet: #泡泡今天文艺范儿 【致某字幕网站的倒下】漫画动画看不了了，英剧美剧失踪了。睡觉吧，但愿长醉不复醒，卧槽泥马勒戈壁。人们在做着一个梦，梦的名字，叫根据相关法律法规，相关搜索结果不予显示梦。<a href="https://paopao3.azurewebsites.net/article/277" target="_BLANK">paopao3.azurewebsites.net/article/277</a> http:/… (2014年11月25日 06:22)
  ---
 RT @oiax: @brianliao1986 网友对百度浏览器“海外加速”的证书分析 <a href="http://www.v2ex.com/t/148547" target="_BLANK">www.v2ex.com/t/148547</a> @paopaonet (2014年11月25日 06:22)
@@ -109,6 +111,4 @@ RT @jason5ng32: 读初高中时，同学说我傻，因为老和他们讨论民�
 China adopts new strategy to cut off citizens from Internet <a href="http://thehill.com/policy/cybersecurity/224541-china-adopts-new-strategy-to-cut-off-citizens-from-internet" target="_BLANK">thehill.com/policy/cybersecurity/224541-china-adopts-new-strategy-to-cut-off-citizens-from-internet</a> (2014年11月23日 16:25)
  ---
 RT @beidaijin: 中国竟然还有名次   出版自由排名：记者无疆界组织2014出版自由国家排名  1、芬兰 18加拿大 46 美国 148 俄罗斯 175 中国 <a href="https://twitter.com/beidaijin/status/536411358489620480/photo/1" target="_BLANK">twitter.com/beidaijin/status/536411358489620480/photo/1</a> (2014年11月23日 16:21)
- ---
-RT @beidaijin: 新浪网友@滚叔说唱：「我做字幕三四年了，没赚过一分一毫，相信很多字幕君也跟我一样，只是出于对片子和翻译的热爱，心里又惦记着有人等着看，于是心甘情愿把自己无数业余时间奉献给了字幕。你们不引进不分级烂翻译，净想着折腾这些野生字幕算个什么JB事」 (2014年11月23日 16:21)
  ---
