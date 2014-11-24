@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+China aims to streamline its mobile game censorship process <a href="https://www.techinasia.com/china-aiming-streamline-mobile-game-censorship/" target="_BLANK">www.techinasia.com/china-aiming-streamline-mobile-game-censorship/</a> (2014年11月24日 17:16)
+ ---
 RT @paopaonet: #网页加密 Facebook日前建立了一个基于Tor隐藏服务的网站，随后维基百科也设立了一个非出口的Tor中继，并表示对于支持隐私和匿名持开放立场。这个目前让美国国家安全局和美国联邦调查局头疼不已的Tor是究竟如何帮助网页“隐形”的？https:/… (2014年11月24日 03:50)
  ---
 RT @rmack: Preserve China's '1 country 2 internets' for HK. By @lokmantsui <a href="http://www.scmp.com/article/1645231/one-country-two-internets-and-why-we-need-protect-it" target="_BLANK">www.scmp.com/article/1645231/one-country-two-internets-and-why-we-need-protect-it</a> #netfreedom #UmbrellaMovement #OccupyCent… (2014年11月24日 02:07)
@@ -109,6 +111,4 @@ RT @beidaijin: 措辞精准，呵呵~ 花千芳：中国政府对互联网是司
 RT @williamlong: 貼吧消息：昨天人人影视被查封了5台服务器，直接是广电执法部门去查封，人人影视管理团队成员在加拿大无法回来处理，所以服务器直接被扣了。 据说是调查未经授权的影视翻译，意思就是直接要打击字幕组，没有引进的片子不允许翻译中文。还会继续查封其他字幕组和… (2014年11月23日 01:21)
  ---
 Indeed.  @TheDemocrats is blocked in China since 2011 <a href="https://en.greatfire.org/www.democrats.org" target="_BLANK">en.greatfire.org/www.democrats.org</a> but not @GOP <a href="https://en.greatfire.org/https/gop.com" target="_BLANK">en.greatfire.org/https/gop.com</a> (2014年11月22日 23:52)
- ---
-RT @remonwangxt: 自甘五花千芳稱黨對互聯網的企圖是司马昭之心，这条微博成了近日最好玩的笑料，網友們紛紛以此為藍本活用造句，截圖自石扉客的公共微信號 <a href="https://twitter.com/remonwangxt/status/536137985406676993/photo/1" target="_BLANK">twitter.com/remonwangxt/status/536137985406676993/photo/1</a> (2014年11月22日 23:38)
  ---
