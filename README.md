@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -57,8 +57,8 @@
         <tr>
             <td>博讯新闻</td>
             <td>            
-                <a href="https://boxun2.azurewebsites.net" target="jx18">短期有效 1</a>，            
-                <a href="https://d3588w5hqzcepn.cloudfront.net" target="jx19">短期有效 2</a>
+                <a href="https://" target="jx18">短期有效 1</a>，            
+                <a href="https://" target="jx19">短期有效 2</a>
             </td>
         </tr>
     </tbody>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+MPs’ trip to China cancelled after row over Hong Kong protests debate <a href="http://www.theguardian.com/world/2014/nov/24/mps-trip-china-cancelled-beijing-tory?CMP=share_btn_tw" target="_BLANK">www.theguardian.com/world/2014/nov/24/mps-trip-china-cancelled-beijing-tory</a> (2014年11月25日 18:18)
+ ---
 RT @tomphillipsin: Never seen so much @vine footage on my timeline as today from Mong Kok &amp; Ferguson. How long before it is blocked in Chin… (2014年11月25日 16:19)
  ---
 "Police have ordered media to leave the area - perhaps an attempt to reduce media scrutiny." <a href="http://www.theguardian.com/us-news/live/2014/nov/24/ferguson-grand-jury-police-officer-darron-wilson-michael-brown?CMP=share_btn_tw" target="_BLANK">www.theguardian.com/us-news/live/2014/nov/24/ferguson-grand-jury-police-officer-darron-wilson-michael-brown</a> -&gt; in Ferguson (2014年11月25日 15:36)
@@ -109,6 +111,4 @@ RT @paopaonet: #泡泡今天文艺范儿 【致某字幕网站的倒下】漫画
 RT @oiax: @brianliao1986 网友对百度浏览器“海外加速”的证书分析 <a href="http://www.v2ex.com/t/148547" target="_BLANK">www.v2ex.com/t/148547</a> @paopaonet (2014年11月25日 06:22)
  ---
 BBC中文网免翻墙镜像上线 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> 提供中国大陆用户不受审查的新闻. (2014年11月25日 01:09)
- ---
-RT @goldkorn: Guangming Daily in praise of voluntary 50 Centers “自干五”是社会主义核心价值观的坚定践行者 ttp://news.xinhuanet.com/local/2014-11/15/c_111326259… (2014年11月25日 00:00)
  ---
