@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+"Police have ordered media to leave the area - perhaps an attempt to reduce media scrutiny." <a href="http://www.theguardian.com/us-news/live/2014/nov/24/ferguson-grand-jury-police-officer-darron-wilson-michael-brown?CMP=share_btn_tw" target="_BLANK">www.theguardian.com/us-news/live/2014/nov/24/ferguson-grand-jury-police-officer-darron-wilson-michael-brown</a> -&gt; in Ferguson (2014年11月25日 15:36)
+ ---
 RT @fangshimin: 《慢慢的，它们就没有了，就像从未存在过》，这篇文章在作者的豆瓣上也没有了，就像从未存在过。 <a href="http://ww4.sinaimg.cn/bmiddle/7441cfdfjw1eml1gyrlhwj20c83j5h93.jpg" target="_BLANK">ww4.sinaimg.cn/bmiddle/7441cfdfjw1eml1gyrlhwj20c83j5h93.jpg</a> (2014年11月25日 14:35)
  ---
 RT @fangshimin: 活学活用司马昭之心 <a href="https://twitter.com/fangshimin/status/537082440636833793/photo/1" target="_BLANK">twitter.com/fangshimin/status/537082440636833793/photo/1</a> (2014年11月25日 14:34)
@@ -109,6 +111,4 @@ BBC中文网免翻墙镜像上线 <a href="https://github.com/greatfire/wiki" ta
 RT @goldkorn: Guangming Daily in praise of voluntary 50 Centers “自干五”是社会主义核心价值观的坚定践行者 ttp://news.xinhuanet.com/local/2014-11/15/c_111326259… (2014年11月25日 00:00)
  ---
 We've unblocked @bbcchinese for all readers in China; coinciding w/in-depth coverage of Taiwan elections. <a href="https://en.greatfire.org/blog/2014/nov/bbc-and-greatfireorg-partner-deliver-uncensored-information-china" target="_BLANK">en.greatfire.org/blog/2014/nov/bbc-and-greatfireorg-partner-deliver-uncensored-information-china</a> (2014年11月24日 20:16)
- ---
-RT @mikko: We believe that the 'Regin' governmental espionage tool is NOT coming from Russia or China. <a href="https://www.f-secure.com/weblog/archives/00002766.html" target="_BLANK">www.f-secure.com/weblog/archives/00002766.html</a> http://t.co/… (2014年11月24日 19:54)
  ---
