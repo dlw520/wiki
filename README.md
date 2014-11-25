@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @globalvoices: China Touts Local Ground Rules for the Global Internet <a href="http://trib.al/3Cl3a8m" target="_BLANK">trib.al/3Cl3a8m</a> "The hidden intention is implied, and left … (2014年11月26日 05:48)
+ ---
 RT @bitinn: CloudFlare将在2015年1月提供中国版，将交由国内合作伙伴管理，服从中国当地的法律法规。CEO表示在中国内自我审查不会让问题变糟，“毕竟审查已是现状”。同时他也表示，把服务器放到中国，有助降低全球网络被攻击的风险，攻击会在中国内化解。 via … (2014年11月26日 04:28)
  ---
 RT @RTKcn: 19+ RT @yangpigui: #香港表情 今夜，香港会沦陷吗？ <a href="https://twitter.com/yangpigui/status/537214448268636161/photo/1" target="_BLANK">twitter.com/yangpigui/status/537214448268636161/photo/1</a> (2014年11月26日 04:11)
@@ -109,6 +111,4 @@ RT @beidaijin: 排版有意思 <a href="https://twitter.com/beidaijin/status/537
 中国访问人人影视显示“YYeTs人人影视正式关闭！”，而美国访问却能显示全部内容。版权你妹。 <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/?u=/article/277" target="_BLANK">e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> (2014年11月25日 12:44)
  ---
 @Vela1680 @phuslu 可以这么说。但大部分人认为翻墙不重要的原因是他们不知道墙外有什么。所以免翻墙镜像 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> 可以说是一个电影预告。若他们想看更多墙外网站，自然而然会购买／下载翻墙软件。 (2014年11月25日 11:34)
- ---
-RT @hnjhj: 忙碌了一天的大大晚上打开电视机，一连换了好几个频道，发现满屏都是劈腿女上窜下跳，大大非常生气。不禁勾勒起自己上一次婚姻的痛苦记忆。忍无可忍之下，大大拿起手头的电话：把广电蔡局长给我叫来。马上！……广电总局当晚连夜发布新规。 (2014年11月25日 11:19)
  ---
