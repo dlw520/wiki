@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @fangshimin: 极少有外媒报道黑镇互联网大会，零星的报道也都是讽刺、批评的，例如CNN的报道标题是“中国主办超级古怪的互联网大会”，BBC的标题是：“世界互联网大会：中国已治好妄想症了吗？”TechCrunch的标题是“中国试图让世界互联网大会参加者支持其荒唐的… (2014年11月26日 04:04)
+ ---
+RT @CorndogCN: 传腾讯视频将独家引进HBO的电视节目，根据我对HBO尺度的了解，估计能剪到剧情都连不起来。 (2014年11月26日 04:04)
+ ---
+RT @paopaonet: #泡泡快讯 【BBC中文网镜像网站上线】@GreatFireChina 正式与BBC中文网合作，为中国大陆用户提供不受审查的新闻。 BBC中文网镜像地址是 <a href="https://bbc1.azurewebsites.net/zhongwen/simp" target="_BLANK">bbc1.azurewebsites.net/zhongwen/simp</a> (2014年11月26日 04:03)
+ ---
 Live video of HK protestors preventing cops from moving in from an alley <a href="http://new.livestream.com/pt/events/1857932" target="_BLANK">new.livestream.com/pt/events/1857932</a> lots of shouting at the cops (2014年11月25日 21:26)
  ---
 RT @panphil: CloudFare trying to move into China market, keep its HK democracy clients <a href="http://techcrunch.com/2014/11/24/cloudflare-will-offer-a-local-version-of-its-web-security-service-in-china-in-2015/?utm_content=buffer3f3bd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_BLANK">techcrunch.com/2014/11/24/cloudflare-will-offer-a-local-version-of-its-web-security-service-in-china-in-2015/</a> Seems like it will be tough h… (2014年11月25日 18:33)
@@ -105,10 +111,4 @@ RT @hnjhj: 忙碌了一天的大大晚上打开电视机，一连换了好几个
 RT @edwincheese: @gfwrev 同样利用墙承受不起封锁公用服务做成的连带伤害这弱点，Tor的Meek用公用CDN 作代理连接墙外Tor节点。比起@GreatFireChina 只局限于个别外国网站的做法优胜。不过 collateral freedom 很成功吸… (2014年11月25日 10:42)
  ---
 RT @gfwrev: greatfire的杰作就是<a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a>这种玩意来误伤GFW天真的模式匹配。GFW是谁开发的，开发的时候只是作个意思留些漏洞，大家私下翻一翻得过且过。你要找国务院立个项，正规军来搞Collateral Freedom，那就… (2014年11月25日 07:38)
- ---
-RT @fqrouter: fqrouter 已经升级到 2.11.2 支持 Android 5.0 <a href="https://s3-ap-southeast-1.amazonaws.com/fqrouter/fqrouter-latest.html" target="_BLANK">s3-ap-southeast-1.amazonaws.com/fqrouter/fqrouter-latest.html</a> 自动更新会逐步推送，Google Play上的版本也会随后更新。特别提示：youtube请使用网页播放。 (2014年11月25日 07:04)
- ---
-.@GreatFireChina gives mainland China access to BBC Chinese uncensored news and Taiwan local election coverage <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a>. (2014年11月25日 06:29)
- ---
-RT @paopaonet: #泡泡今天文艺范儿 【致某字幕网站的倒下】漫画动画看不了了，英剧美剧失踪了。睡觉吧，但愿长醉不复醒，卧槽泥马勒戈壁。人们在做着一个梦，梦的名字，叫根据相关法律法规，相关搜索结果不予显示梦。<a href="https://paopao3.azurewebsites.net/article/277" target="_BLANK">paopao3.azurewebsites.net/article/277</a> http:/… (2014年11月25日 06:22)
  ---
