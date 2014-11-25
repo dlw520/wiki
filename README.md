@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@Vela1680 @phuslu 可以这么说。但大部分人认为翻墙不重要的原因是他们不知道墙外有什么。所以免翻墙镜像 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> 可以说是一个电影预告。若他们想看更多墙外网站，自然而然会购买／下载翻墙软件。 (2014年11月25日 11:34)
+ ---
+。@phuslu @Vela1680 对。VPN／VPS等GFW又不是封不了，人数一多，马上干扰。认为我们镜像污染云服务器的人，是不是也认为在Linode上自建VPN污染了Linode，是不是也认为Google自己的搜索结果污染了Google？ (2014年11月25日 11:30)
+ ---
 RT @hnjhj: 忙碌了一天的大大晚上打开电视机，一连换了好几个频道，发现满屏都是劈腿女上窜下跳，大大非常生气。不禁勾勒起自己上一次婚姻的痛苦记忆。忍无可忍之下，大大拿起手头的电话：把广电蔡局长给我叫来。马上！……广电总局当晚连夜发布新规。 (2014年11月25日 11:19)
  ---
 。@gfwrev 不同意。高技术翻墙相当于GFW的减压阀。那些非要翻墙的人，放他们出去，减少点愤怒。 GFW有能力流量分析和封杀VPN，但现在不这么做，就是因为怕经济影响和某些民众愤怒。如果一个人对电脑不太懂，他就不配访问Google，Twitter么？非要是程序员的专利？ (2014年11月25日 10:56)
@@ -107,8 +111,4 @@ RT @VOAJiangHe: 慕容雪村：习近平 的文艺 - 纽约时报中文网 国�
 China aims to streamline its mobile game censorship process <a href="https://www.techinasia.com/china-aiming-streamline-mobile-game-censorship/" target="_BLANK">www.techinasia.com/china-aiming-streamline-mobile-game-censorship/</a> (2014年11月24日 17:16)
  ---
 RT @paopaonet: #网页加密 Facebook日前建立了一个基于Tor隐藏服务的网站，随后维基百科也设立了一个非出口的Tor中继，并表示对于支持隐私和匿名持开放立场。这个目前让美国国家安全局和美国联邦调查局头疼不已的Tor是究竟如何帮助网页“隐形”的？https:/… (2014年11月24日 03:50)
- ---
-RT @rmack: Preserve China's '1 country 2 internets' for HK. By @lokmantsui <a href="http://www.scmp.com/article/1645231/one-country-two-internets-and-why-we-need-protect-it" target="_BLANK">www.scmp.com/article/1645231/one-country-two-internets-and-why-we-need-protect-it</a> #netfreedom #UmbrellaMovement #OccupyCent… (2014年11月24日 02:07)
- ---
-RT @fangshimin: 记者无国界组织评价世界各国新闻审查严重程度，从轻到重的颜色分别是：白、黄、橙、红、黑。难怪世界中心在黑镇。 <a href="https://twitter.com/fangshimin/status/536571619439677440/photo/1" target="_BLANK">twitter.com/fangshimin/status/536571619439677440/photo/1</a> (2014年11月24日 01:54)
  ---
