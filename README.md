@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+中国访问人人影视显示“YYeTs人人影视正式关闭！”，而美国访问却能显示全部内容。版权你妹。 <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/?u=/article/277" target="_BLANK">e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> (2014年11月25日 12:44)
+ ---
 @Vela1680 @phuslu 可以这么说。但大部分人认为翻墙不重要的原因是他们不知道墙外有什么。所以免翻墙镜像 <a href="https://github.com/greatfire/wiki" target="_BLANK">github.com/greatfire/wiki</a> 可以说是一个电影预告。若他们想看更多墙外网站，自然而然会购买／下载翻墙软件。 (2014年11月25日 11:34)
  ---
 。@phuslu @Vela1680 对。VPN／VPS等GFW又不是封不了，人数一多，马上干扰。认为我们镜像污染云服务器的人，是不是也认为在Linode上自建VPN污染了Linode，是不是也认为Google自己的搜索结果污染了Google？ (2014年11月25日 11:30)
@@ -109,6 +111,4 @@ RT @bitnk: Tmrw in Shanghai. Delivery for Mr. #Assange in opening exhibition of 
 RT @VOAJiangHe: 慕容雪村：习近平 的文艺 - 纽约时报中文网 国际纵览 <a href="http://cn.nytimes.com/opinion/20141124/c24murong/" target="_BLANK">cn.nytimes.com/opinion/20141124/c24murong/</a> 来自 @nytchinese 习要文艺工作贯彻党的方针，不提创作自由，延续毛的党管文艺原则。习的著作畅销，其言也必将产生比法律还强大的效力。他的… (2014年11月24日 17:40)
  ---
 China aims to streamline its mobile game censorship process <a href="https://www.techinasia.com/china-aiming-streamline-mobile-game-censorship/" target="_BLANK">www.techinasia.com/china-aiming-streamline-mobile-game-censorship/</a> (2014年11月24日 17:16)
- ---
-RT @paopaonet: #网页加密 Facebook日前建立了一个基于Tor隐藏服务的网站，随后维基百科也设立了一个非出口的Tor中继，并表示对于支持隐私和匿名持开放立场。这个目前让美国国家安全局和美国联邦调查局头疼不已的Tor是究竟如何帮助网页“隐形”的？https:/… (2014年11月24日 03:50)
  ---
