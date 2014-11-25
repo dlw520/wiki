@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@gfwrev "未实现的简单的技术细节"是什么？ 对HTTPS实时流量分析进行阻断？ (2014年11月25日 10:47)
+ ---
 RT @edwincheese: @gfwrev 同样利用墙承受不起封锁公用服务做成的连带伤害这弱点，Tor的Meek用公用CDN 作代理连接墙外Tor节点。比起@GreatFireChina 只局限于个别外国网站的做法优胜。不过 collateral freedom 很成功吸… (2014年11月25日 10:42)
  ---
 RT @gfwrev: greatfire的杰作就是<a href="https://edgecastcdn.net/00107ED/g/" target="_BLANK">edgecastcdn.net/00107ED/g/</a>这种玩意来误伤GFW天真的模式匹配。GFW是谁开发的，开发的时候只是作个意思留些漏洞，大家私下翻一翻得过且过。你要找国务院立个项，正规军来搞Collateral Freedom，那就… (2014年11月25日 07:38)
@@ -109,6 +111,4 @@ RT @fangshimin: 记者无国界组织评价世界各国新闻审查严重程度�
 中国访问人人影视显示“YYeTs人人影视正在清理内容”，而美国访问却能显示全部内容。 <a href="https://zh.greatfire.org/www.yyets.com" target="_BLANK">zh.greatfire.org/www.yyets.com</a> 既然中国不会比美国更保护版权，那只能说是中国打压未审的美剧了。 (2014年11月24日 01:22)
  ---
 RT @Stariver: 支持字幕组 <a href="https://twitter.com/Stariver/status/536509180077559808/photo/1" target="_BLANK">twitter.com/Stariver/status/536509180077559808/photo/1</a> (2014年11月24日 01:15)
- ---
-RT @niubi Wuzhen Global Internet Conference in the Context of Current Chinese Internet Company Practices <a href="http://blog.feichangdao.com/2014/11/placing-claims-made-about-wuzhen-global.html?m=1&mc_cid=2d2f5dfd5d&mc_eid=654fcbfcc5" target="_BLANK">blog.feichangdao.com/2014/11/placing-claims-made-about-wuzhen-global.html</a> classic (2014年11月23日 22:09)
  ---
