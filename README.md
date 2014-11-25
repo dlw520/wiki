@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @RTKcn: 19+ RT @yangpigui: #香港表情 今夜，香港会沦陷吗？ <a href="https://twitter.com/yangpigui/status/537214448268636161/photo/1" target="_BLANK">twitter.com/yangpigui/status/537214448268636161/photo/1</a> (2014年11月26日 04:11)
+ ---
 RT @glynmoody: The Coming War on #Encryption, #Tor, and #VPNs - <a href="http://www.computerworlduk.com/blogs/open-enterprise/surveillance-3588605/" target="_BLANK">www.computerworlduk.com/blogs/open-enterprise/surveillance-3588605/</a> time to fight for our right to online privacy (2014年11月26日 04:09)
  ---
 RT @paopaonet: #盘点那些奇葩的被禁播原因 色情尺度过大不行、反极权政治倾向鲜明不行、调侃中国政府不行，同性恋题材不让播，现在三角恋狗血婆媳关系也要被审查。到最后“被封杀的作品才是好作品”已形成广泛共识，禁播反成了最佳的宣传方式。<a href="https://t.co/1JM0" target="_BLANK">t.co/1JM0</a>… (2014年11月26日 04:09)
@@ -109,6 +111,4 @@ RT @beidaijin: 排版有意思 <a href="https://twitter.com/beidaijin/status/537
 RT @hnjhj: 忙碌了一天的大大晚上打开电视机，一连换了好几个频道，发现满屏都是劈腿女上窜下跳，大大非常生气。不禁勾勒起自己上一次婚姻的痛苦记忆。忍无可忍之下，大大拿起手头的电话：把广电蔡局长给我叫来。马上！……广电总局当晚连夜发布新规。 (2014年11月25日 11:19)
  ---
 。@gfwrev 不同意。高技术翻墙相当于GFW的减压阀。那些非要翻墙的人，放他们出去，减少点愤怒。 GFW有能力流量分析和封杀VPN，但现在不这么做，就是因为怕经济影响和某些民众愤怒。如果一个人对电脑不太懂，他就不配访问Google，Twitter么？非要是程序员的专利？ (2014年11月25日 10:56)
- ---
-@gfwrev "未实现的简单的技术细节"是什么？ 对HTTPS实时流量分析进行阻断？ (2014年11月25日 10:47)
  ---
