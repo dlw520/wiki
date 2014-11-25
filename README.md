@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -72,6 +72,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @fangshimin: 活学活用司马昭之心 <a href="https://twitter.com/fangshimin/status/537082440636833793/photo/1" target="_BLANK">twitter.com/fangshimin/status/537082440636833793/photo/1</a> (2014年11月25日 14:34)
+ ---
+RT @fangshimin: 鲁总管在黑镇对记者说他只是中国网民的服务员。真谦虚，你见过哪个服务员可以对顾客生杀予夺的？ (2014年11月25日 14:33)
+ ---
+RT @beidaijin: 排版有意思 <a href="https://twitter.com/beidaijin/status/537130921644675072/photo/1" target="_BLANK">twitter.com/beidaijin/status/537130921644675072/photo/1</a> (2014年11月25日 14:31)
+ ---
 英议员被中国拒签 跨党国会访华团行程取消 <a href="https://bbc1.azurewebsites.net/zhongwen/simp/world/2014/11/141125_uk_mp_trip_cancelled" target="_BLANK">bbc1.azurewebsites.net/zhongwen/simp/world/2014/11/141125_uk_mp_trip_cancelled</a> (2014年11月25日 14:28)
  ---
 中国访问人人影视显示“YYeTs人人影视正式关闭！”，而美国访问却能显示全部内容。版权你妹。 <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/?u=/article/277" target="_BLANK">e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> (2014年11月25日 12:44)
@@ -105,10 +111,4 @@ We've unblocked @bbcchinese for all readers in China; coinciding w/in-depth cove
 RT @mikko: We believe that the 'Regin' governmental espionage tool is NOT coming from Russia or China. <a href="https://www.f-secure.com/weblog/archives/00002766.html" target="_BLANK">www.f-secure.com/weblog/archives/00002766.html</a> http://t.co/… (2014年11月24日 19:54)
  ---
 RT @munin: Not just drupal, either; lots of things that need security updates get blocked by this. China just shot itself in the foot... (2014年11月24日 18:56)
- ---
-RT @bitnk: Tmrw in Shanghai. Delivery for Mr. #Assange in opening exhibition of new Shanghai 21st Century Art Museum. <a href="http://t.co/HabaLiZCl" target="_BLANK">t.co/HabaLiZCl</a>… (2014年11月24日 18:17)
- ---
-RT @VOAJiangHe: 慕容雪村：习近平 的文艺 - 纽约时报中文网 国际纵览 <a href="http://cn.nytimes.com/opinion/20141124/c24murong/" target="_BLANK">cn.nytimes.com/opinion/20141124/c24murong/</a> 来自 @nytchinese 习要文艺工作贯彻党的方针，不提创作自由，延续毛的党管文艺原则。习的著作畅销，其言也必将产生比法律还强大的效力。他的… (2014年11月24日 17:40)
- ---
-China aims to streamline its mobile game censorship process <a href="https://www.techinasia.com/china-aiming-streamline-mobile-game-censorship/" target="_BLANK">www.techinasia.com/china-aiming-streamline-mobile-game-censorship/</a> (2014年11月24日 17:16)
  ---
