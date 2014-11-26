@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @chengr28: DigiCert 的 OCSP 在线证书验证使用了 Edgecast CDN 于是当后者被DNS投毒污染后，会在完全意想不到的地方碰到意想不到的问题…… <a href="https://twitter.com/chengr28/status/536853044915625984/photo/1" target="_BLANK">twitter.com/chengr28/status/536853044915625984/photo/1</a> (2014年11月26日 09:09)
+ ---
+RT @chengr28: 百毒浏览器自带的海外通道加速功能，本质是百毒用自己的服务器搭了他们自己私有用户名和密码的 Squid 代理，实测能代理访问 Google 等网站。不过胡乱使用不明服务器上的不明代理，是否安全要打一个很大的疑问，本身其通过这种代理后就看不到原网站的加密… (2014年11月26日 09:08)
+ ---
+Number of websites blocked among Alexa Top 1000. Year 2013: 62 blocked; Year 2014: 169 blocked. <a href="https://en.greatfire.org/" target="_BLANK">en.greatfire.org/</a> (2014年11月26日 09:05)
+ ---
 对全球排名前1000的网站，2013年有62个被封锁，2014有169个被封锁。<a href="https://zh.greatfire.org/" target="_BLANK">zh.greatfire.org/</a> (2014年11月26日 09:04)
  ---
 RT @globalvoices: China Touts Local Ground Rules for the Global Internet <a href="http://trib.al/3Cl3a8m" target="_BLANK">trib.al/3Cl3a8m</a> "The hidden intention is implied, and left … (2014年11月26日 05:48)
@@ -105,10 +111,4 @@ RT @fangshimin: 《慢慢的，它们就没有了，就像从未存在过》，�
 RT @fangshimin: 活学活用司马昭之心 <a href="https://twitter.com/fangshimin/status/537082440636833793/photo/1" target="_BLANK">twitter.com/fangshimin/status/537082440636833793/photo/1</a> (2014年11月25日 14:34)
  ---
 RT @fangshimin: 鲁总管在黑镇对记者说他只是中国网民的服务员。真谦虚，你见过哪个服务员可以对顾客生杀予夺的？ (2014年11月25日 14:33)
- ---
-RT @beidaijin: 排版有意思 <a href="https://twitter.com/beidaijin/status/537130921644675072/photo/1" target="_BLANK">twitter.com/beidaijin/status/537130921644675072/photo/1</a> (2014年11月25日 14:31)
- ---
-英议员被中国拒签 跨党国会访华团行程取消 <a href="https://bbc1.azurewebsites.net/zhongwen/simp/world/2014/11/141125_uk_mp_trip_cancelled" target="_BLANK">bbc1.azurewebsites.net/zhongwen/simp/world/2014/11/141125_uk_mp_trip_cancelled</a> (2014年11月25日 14:28)
- ---
-中国访问人人影视显示“YYeTs人人影视正式关闭！”，而美国访问却能显示全部内容。版权你妹。 <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/?u=/article/277" target="_BLANK">e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/</a> (2014年11月25日 12:44)
  ---
