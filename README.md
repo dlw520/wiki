@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,9 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: #中国互联网违法犯罪集团不完全档案花名册：“WireLurker(MacHook)”木马，”“推荐密贼”木马，越狱捆绑“太极助手”，流氓播放器“快播”。有意思的是，这些犯罪团伙的投资者都有一个共同的名字，叫“安全卫士360”。
+https://t.… (2014年11月27日 07:48)
+ ---
 RT @fangshimin: 我拍的这张照片《孤独的灯杆》在国内网络反复被删，大家来研究一下它犯了什么法。 <a href="https://twitter.com/fangshimin/status/537498803939454976/photo/1" target="_BLANK">twitter.com/fangshimin/status/537498803939454976/photo/1</a> (2014年11月26日 23:08)
  ---
 RT @niubi: The dogs of positivity– @cmphku on hua qianfang, sima zhao and an embarrassing Internet propaganda own goal <a href="http://t.co/AojeayE1" target="_BLANK">t.co/AojeayE1</a>… (2014年11月26日 16:44)
@@ -118,6 +121,4 @@ RT @RTKcn: 19+ RT @yangpigui: #香港表情 今夜，香港会沦陷吗？ <a hr
 RT @glynmoody: The Coming War on #Encryption, #Tor, and #VPNs - <a href="http://www.computerworlduk.com/blogs/open-enterprise/surveillance-3588605/" target="_BLANK">www.computerworlduk.com/blogs/open-enterprise/surveillance-3588605/</a> time to fight for our right to online privacy (2014年11月26日 04:09)
  ---
 RT @paopaonet: #盘点那些奇葩的被禁播原因 色情尺度过大不行、反极权政治倾向鲜明不行、调侃中国政府不行，同性恋题材不让播，现在三角恋狗血婆媳关系也要被审查。到最后“被封杀的作品才是好作品”已形成广泛共识，禁播反成了最佳的宣传方式。<a href="https://t.co/1JM0" target="_BLANK">t.co/1JM0</a>… (2014年11月26日 04:09)
- ---
-RT @fangshimin: 极少有外媒报道黑镇互联网大会，零星的报道也都是讽刺、批评的，例如CNN的报道标题是“中国主办超级古怪的互联网大会”，BBC的标题是：“世界互联网大会：中国已治好妄想症了吗？”TechCrunch的标题是“中国试图让世界互联网大会参加者支持其荒唐的… (2014年11月26日 04:04)
  ---
