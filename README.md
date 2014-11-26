@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+港法院执行第二份旺角“占中”禁制令 <a href="https://bbc1.azurewebsites.net/zhongwen/simp/china/2014/11/141126_hongkong_occupy_mongkok" target="_BLANK">bbc1.azurewebsites.net/zhongwen/simp/china/2014/11/141126_hongkong_occupy_mongkok</a> (2014年11月26日 10:49)
+ ---
 RT @hnjhj: - 怎么又来一个设计师？
 - 需求改了，上次的设计作废了。
 - 靠，谁给改的？
@@ -118,6 +120,4 @@ Live video of HK protestors preventing cops from moving in from an alley <a href
 RT @panphil: CloudFare trying to move into China market, keep its HK democracy clients <a href="http://techcrunch.com/2014/11/24/cloudflare-will-offer-a-local-version-of-its-web-security-service-in-china-in-2015/?utm_content=buffer3f3bd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_BLANK">techcrunch.com/2014/11/24/cloudflare-will-offer-a-local-version-of-its-web-security-service-in-china-in-2015/</a> Seems like it will be tough h… (2014年11月25日 18:33)
  ---
 MPs’ trip to China cancelled after row over Hong Kong protests debate <a href="http://www.theguardian.com/world/2014/nov/24/mps-trip-china-cancelled-beijing-tory?CMP=share_btn_tw" target="_BLANK">www.theguardian.com/world/2014/nov/24/mps-trip-china-cancelled-beijing-tory</a> (2014年11月25日 18:18)
- ---
-RT @tomphillipsin: Never seen so much @vine footage on my timeline as today from Mong Kok &amp; Ferguson. How long before it is blocked in Chin… (2014年11月25日 16:19)
  ---
