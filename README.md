@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @williamlong: 根据新华社的报道，微软在中国报告了6年的亏损，亏损额超过20亿元人民币。然而，同类公司基本都处于盈利状态。因此，税务部门认为，该公司的行为是不合理的。报道称，这家美国公司已经承认了避税行为，其位于中国大陆的子公司已经同意向中国中央税务部门补缴1… (2014年11月26日 13:41)
+ ---
 RT @beg4ons: 有人筑了一道墙，美剧跨不过太平洋，从此电视里没别样，清宫抗日丈母娘。 (2014年11月26日 12:13)
  ---
 中国电影是如何审查的 <a href="http://v.youku.com/v_show/id_XODI4MzQ5NDYw.html" target="_BLANK">v.youku.com/v_show/id_XODI4MzQ5NDYw.html</a> 那些稀奇古怪的被禁播原因 <a href="https://paopao3.azurewebsites.net/article/278" target="_BLANK">paopao3.azurewebsites.net/article/278</a> (2014年11月26日 10:59)
@@ -118,6 +120,4 @@ RT @fangshimin: 极少有外媒报道黑镇互联网大会，零星的报道也�
 RT @CorndogCN: 传腾讯视频将独家引进HBO的电视节目，根据我对HBO尺度的了解，估计能剪到剧情都连不起来。 (2014年11月26日 04:04)
  ---
 RT @paopaonet: #泡泡快讯 【BBC中文网镜像网站上线】@GreatFireChina 正式与BBC中文网合作，为中国大陆用户提供不受审查的新闻。 BBC中文网镜像地址是 <a href="https://bbc1.azurewebsites.net/zhongwen/simp" target="_BLANK">bbc1.azurewebsites.net/zhongwen/simp</a> (2014年11月26日 04:03)
- ---
-Live video of HK protestors preventing cops from moving in from an alley <a href="http://new.livestream.com/pt/events/1857932" target="_BLANK">new.livestream.com/pt/events/1857932</a> lots of shouting at the cops (2014年11月25日 21:26)
  ---
