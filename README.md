@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @BillGatesCN: 甲：Windows太烂了！乙：微软的产品是存在很多缺点，但你用它十几年了，有什么资格说它的不是！微软用1%的土地养活了90%的电脑，你就没有感恩之心吗！现在计算机的功能60年前有吗？互联网的繁荣60年前有吗？微软还处于发展的初级阶段，你要相信微… (2014年11月26日 09:14)
+ ---
+More collateral damage from EdgeCast. DigiCert's Online Certificate Status Protocol blocked in China. <a href="https://twitter.com/chengr28/status/536853044915625984/photo/1" target="_BLANK">twitter.com/chengr28/status/536853044915625984/photo/1</a> (2014年11月26日 09:11)
+ ---
 RT @chengr28: DigiCert 的 OCSP 在线证书验证使用了 Edgecast CDN 于是当后者被DNS投毒污染后，会在完全意想不到的地方碰到意想不到的问题…… <a href="https://twitter.com/chengr28/status/536853044915625984/photo/1" target="_BLANK">twitter.com/chengr28/status/536853044915625984/photo/1</a> (2014年11月26日 09:09)
  ---
 RT @chengr28: 百毒浏览器自带的海外通道加速功能，本质是百毒用自己的服务器搭了他们自己私有用户名和密码的 Squid 代理，实测能代理访问 Google 等网站。不过胡乱使用不明服务器上的不明代理，是否安全要打一个很大的疑问，本身其通过这种代理后就看不到原网站的加密… (2014年11月26日 09:08)
@@ -107,8 +111,4 @@ RT @tomphillipsin: Never seen so much @vine footage on my timeline as today from
 "Police have ordered media to leave the area - perhaps an attempt to reduce media scrutiny." <a href="http://www.theguardian.com/us-news/live/2014/nov/24/ferguson-grand-jury-police-officer-darron-wilson-michael-brown?CMP=share_btn_tw" target="_BLANK">www.theguardian.com/us-news/live/2014/nov/24/ferguson-grand-jury-police-officer-darron-wilson-michael-brown</a> -&gt; in Ferguson (2014年11月25日 15:36)
  ---
 RT @fangshimin: 《慢慢的，它们就没有了，就像从未存在过》，这篇文章在作者的豆瓣上也没有了，就像从未存在过。 <a href="http://ww4.sinaimg.cn/bmiddle/7441cfdfjw1eml1gyrlhwj20c83j5h93.jpg" target="_BLANK">ww4.sinaimg.cn/bmiddle/7441cfdfjw1eml1gyrlhwj20c83j5h93.jpg</a> (2014年11月25日 14:35)
- ---
-RT @fangshimin: 活学活用司马昭之心 <a href="https://twitter.com/fangshimin/status/537082440636833793/photo/1" target="_BLANK">twitter.com/fangshimin/status/537082440636833793/photo/1</a> (2014年11月25日 14:34)
- ---
-RT @fangshimin: 鲁总管在黑镇对记者说他只是中国网民的服务员。真谦虚，你见过哪个服务员可以对顾客生杀予夺的？ (2014年11月25日 14:33)
  ---
