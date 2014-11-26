@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,17 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @hnjhj: - 怎么又来一个设计师？
+- 需求改了，上次的设计作废了。
+- 靠，谁给改的？
+- 设计师改的。
+- 什么时候可以开始开发？
+- 这要设计师说了算。
+- 我操，你们设计师怎么啥都管？
+- 这样可以保证效率。
+- 那怎么一再跳票？客户没有意见吗？
+- 有意见… (2014年11月26日 10:21)
+ ---
 RT @nytchinese: 有读者在微博艾特我们... <a href="https://twitter.com/nytchinese/status/507065494038274049/photo/1" target="_BLANK">twitter.com/nytchinese/status/507065494038274049/photo/1</a> (2014年11月26日 09:16)
  ---
 RT @BillGatesCN: 甲：Windows太烂了！乙：微软的产品是存在很多缺点，但你用它十几年了，有什么资格说它的不是！微软用1%的土地养活了90%的电脑，你就没有感恩之心吗！现在计算机的功能60年前有吗？互联网的繁荣60年前有吗？微软还处于发展的初级阶段，你要相信微… (2014年11月26日 09:14)
@@ -109,6 +120,4 @@ RT @panphil: CloudFare trying to move into China market, keep its HK democracy c
 MPs’ trip to China cancelled after row over Hong Kong protests debate <a href="http://www.theguardian.com/world/2014/nov/24/mps-trip-china-cancelled-beijing-tory?CMP=share_btn_tw" target="_BLANK">www.theguardian.com/world/2014/nov/24/mps-trip-china-cancelled-beijing-tory</a> (2014年11月25日 18:18)
  ---
 RT @tomphillipsin: Never seen so much @vine footage on my timeline as today from Mong Kok &amp; Ferguson. How long before it is blocked in Chin… (2014年11月25日 16:19)
- ---
-"Police have ordered media to leave the area - perhaps an attempt to reduce media scrutiny." <a href="http://www.theguardian.com/us-news/live/2014/nov/24/ferguson-grand-jury-police-officer-darron-wilson-michael-brown?CMP=share_btn_tw" target="_BLANK">www.theguardian.com/us-news/live/2014/nov/24/ferguson-grand-jury-police-officer-darron-wilson-michael-brown</a> -&gt; in Ferguson (2014年11月25日 15:36)
  ---
