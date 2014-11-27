@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @fightcensorship: 日本有人使用索尼Xperia手机时发现手机会自动发送信息到北京的服务器，结果引发广泛争议。后来经过专门调查，发现日本海外生产索尼手机安装了百度软件，一旦手机在中国使用时，谷歌被封锁，百度替代，但百度涉嫌替中国金盾工程收集个人信息。 ht… (2014年11月27日 15:14)
+ ---
 RT @paopaonet: #中国互联网违法犯罪集团不完全档案花名册：“WireLurker(MacHook)”木马，”“推荐密贼”木马，越狱捆绑“太极助手”，流氓播放器“快播”。有意思的是，这些犯罪团伙的投资者都有一个共同的名字，叫“安全卫士360”。
 https://t.… (2014年11月27日 07:48)
  ---
@@ -119,6 +121,4 @@ RT @bitinn: CloudFlare将在2015年1月提供中国版，将交由国内合作�
 RT @RTKcn: 19+ RT @yangpigui: #香港表情 今夜，香港会沦陷吗？ <a href="https://twitter.com/yangpigui/status/537214448268636161/photo/1" target="_BLANK">twitter.com/yangpigui/status/537214448268636161/photo/1</a> (2014年11月26日 04:11)
  ---
 RT @glynmoody: The Coming War on #Encryption, #Tor, and #VPNs - <a href="http://www.computerworlduk.com/blogs/open-enterprise/surveillance-3588605/" target="_BLANK">www.computerworlduk.com/blogs/open-enterprise/surveillance-3588605/</a> time to fight for our right to online privacy (2014年11月26日 04:09)
- ---
-RT @paopaonet: #盘点那些奇葩的被禁播原因 色情尺度过大不行、反极权政治倾向鲜明不行、调侃中国政府不行，同性恋题材不让播，现在三角恋狗血婆媳关系也要被审查。到最后“被封杀的作品才是好作品”已形成广泛共识，禁播反成了最佳的宣传方式。<a href="https://t.co/1JM0" target="_BLANK">t.co/1JM0</a>… (2014年11月26日 04:09)
  ---
