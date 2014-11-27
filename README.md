@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@Livid Users on V2ex expressed fear “collateral freedom” would lead to other content delivery networks being blocked. <a href="http://www.latimes.com/business/technology/la-fi-tn-great-firewall-china-censorship-20141126-story.html" target="_BLANK">www.latimes.com/business/technology/la-fi-tn-great-firewall-china-censorship-20141126-story.html</a> (2014年11月28日 00:41)
+ ---
 RT @guardiantech: BREAKING: Syrian electronic army 'hacks' Independent, OK Magazine and NHL <a href="http://www.theguardian.com/technology/2014/nov/27/syrian-electronic-army-hacks-independent-ok-magazine-and-nhl?CMP=share_btn_tw" target="_BLANK">www.theguardian.com/technology/2014/nov/27/syrian-electronic-army-hacks-independent-ok-magazine-and-nhl</a> <a href="https://twitter.com/guardiantech/status/537956035244593152/photo/1" target="_BLANK">twitter.com/guardiantech/status/537956035244593152/photo/1</a> (2014年11月27日 22:56)
  ---
 Blocked on Weibo - How a Weibo post gets censored <a href="http://blockedonweibo.tumblr.com" target="_BLANK">blockedonweibo.tumblr.com</a> via @jasonqng (2014年11月27日 22:31)
@@ -119,6 +121,4 @@ RT @chengr28: DigiCert 的 OCSP 在线证书验证使用了 Edgecast CDN 于是�
 RT @chengr28: 百毒浏览器自带的海外通道加速功能，本质是百毒用自己的服务器搭了他们自己私有用户名和密码的 Squid 代理，实测能代理访问 Google 等网站。不过胡乱使用不明服务器上的不明代理，是否安全要打一个很大的疑问，本身其通过这种代理后就看不到原网站的加密… (2014年11月26日 09:08)
  ---
 Number of websites blocked among Alexa Top 1000. Year 2013: 62 blocked; Year 2014: 169 blocked. <a href="https://en.greatfire.org/" target="_BLANK">en.greatfire.org/</a> (2014年11月26日 09:05)
- ---
-对全球排名前1000的网站，2013年有62个被封锁，2014有169个被封锁。<a href="https://zh.greatfire.org/" target="_BLANK">zh.greatfire.org/</a> (2014年11月26日 09:04)
  ---
