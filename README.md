@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -72,6 +72,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @overboming: iOS 上几大神奇应用：
+1. 轮询剪贴板，发本地通知查单词 
+2. 不越狱引入 CoreTelephony 挂电话实现来电防火墙，发本地通知实现来电归属地
+3. 更新音乐图片实现锁屏歌词滚动 
+4. 这次的骚扰电话写入电话本 (2014年11月28日 14:01)
+ ---
 RT @paopaonet: #防火墙拖了中国科学家的后腿 牛顿说：“如果说我比别人看得更远些，那是因为我站在巨人的肩膀上。然而中国大陆的科研人员攀登巨人肩膀的过程特别吃力，甚至可能摔下来。这都是防火长城的“功劳”。<a href="https://paopao3.azurewebsites.net/article/282" target="_BLANK">paopao3.azurewebsites.net/article/282</a> http://… (2014年11月28日 03:59)
  ---
 RT @chenshaoju: 广电总局：电视节目禁用“人艰不拆”等网络用语 违者停播 <a href="http://www.techweb.com.cn/it/2014-11-27/2101492.shtml" target="_BLANK">www.techweb.com.cn/it/2014-11-27/2101492.shtml</a> //真无聊。。。 (2014年11月28日 03:58)
@@ -119,6 +125,4 @@ RT @nytchinese: 有读者在微博艾特我们... <a href="https://twitter.com/n
 RT @BillGatesCN: 甲：Windows太烂了！乙：微软的产品是存在很多缺点，但你用它十几年了，有什么资格说它的不是！微软用1%的土地养活了90%的电脑，你就没有感恩之心吗！现在计算机的功能60年前有吗？互联网的繁荣60年前有吗？微软还处于发展的初级阶段，你要相信微… (2014年11月26日 09:14)
  ---
 More collateral damage from EdgeCast. DigiCert's Online Certificate Status Protocol blocked in China. <a href="https://twitter.com/chengr28/status/536853044915625984/photo/1" target="_BLANK">twitter.com/chengr28/status/536853044915625984/photo/1</a> (2014年11月26日 09:11)
- ---
-RT @chengr28: DigiCert 的 OCSP 在线证书验证使用了 Edgecast CDN 于是当后者被DNS投毒污染后，会在完全意想不到的地方碰到意想不到的问题…… <a href="https://twitter.com/chengr28/status/536853044915625984/photo/1" target="_BLANK">twitter.com/chengr28/status/536853044915625984/photo/1</a> (2014年11月26日 09:09)
  ---
