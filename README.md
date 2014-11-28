@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+Senior police officer hitting people with baton as they move from occupied zone <a href="http://www.scmp.com/news/hong-kong/article/1650752/students-have-no-plan-retake-mong-kok-after-police-show-strength-says" target="_BLANK">www.scmp.com/news/hong-kong/article/1650752/students-have-no-plan-retake-mong-kok-after-police-show-strength-says</a> (2014年11月29日 01:47)
+ ---
 RT @fangshimin: 环球时报发社评称抚顺市作协选花千芳做副主席很正常，因为“今天抚顺市还有哪位作家比花千芳更为人所知呢？”“围绕这件事的过度奇妙是一种幻觉。”果然周梦游应该当全国作协副主席了，因为今天全中国还有哪位作家比他更为人所知呢？全世界都出名了。还有，“过度奇… (2014年11月29日 01:18)
  ---
 RT @RTKcn: 51+ RT @bifurcat: 人人字幕版最新一集2 Broke Girls结尾的文字。 <a href="https://twitter.com/bifurcat/status/537398952669483008/photo/1" target="_BLANK">twitter.com/bifurcat/status/537398952669483008/photo/1</a> (2014年11月29日 01:15)
@@ -114,6 +116,4 @@ RT @niubi: The dogs of positivity– @cmphku on hua qianfang, sima zhao and an e
 RT @williamlong: 根据新华社的报道，微软在中国报告了6年的亏损，亏损额超过20亿元人民币。然而，同类公司基本都处于盈利状态。因此，税务部门认为，该公司的行为是不合理的。报道称，这家美国公司已经承认了避税行为，其位于中国大陆的子公司已经同意向中国中央税务部门补缴1… (2014年11月26日 13:41)
  ---
 RT @beg4ons: 有人筑了一道墙，美剧跨不过太平洋，从此电视里没别样，清宫抗日丈母娘。 (2014年11月26日 12:13)
- ---
-中国电影是如何审查的 <a href="http://v.youku.com/v_show/id_XODI4MzQ5NDYw.html" target="_BLANK">v.youku.com/v_show/id_XODI4MzQ5NDYw.html</a> 那些稀奇古怪的被禁播原因 <a href="https://paopao3.azurewebsites.net/article/278" target="_BLANK">paopao3.azurewebsites.net/article/278</a> (2014年11月26日 10:59)
  ---
