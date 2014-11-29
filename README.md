@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,21 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @zmt0516: 中国出了个江蛤蛤，
+多大的轮子也敢打，
+天不怕嘿地不怕，
+做梦都想见到他！
+中国还有个宋麻麻，
+最美的春晚送给她，
+保佑她祝福她，
+兴家兴国兴天下！
+江蛤蛤爱着宋麻麻，
+这样的爱情像神话，
+宋麻麻爱着江蛤蛤，
+有爱的天下最强大！ (2014年11月30日 07:29)
+ ---
+RT @eric415chang: 「拉一個學生，內圍約10個防暴警，外圍再加超過20個軍裝，中間係一個手無寸鐵為民主付出的香港學生，'公義'與'霸權'的強烈對比！香港警察們，當你們看見這張照片時，你們感羞愧嗎？」 <a href="https://twitter.com/eric415chang/status/538728187065167873/photo/1" target="_BLANK">twitter.com/eric415chang/status/538728187065167873/photo/1</a> (2014年11月30日 07:27)
+ ---
 《蘋果》記者被指襲警案,警員自撼攝錄機 <a href="http://hk.apple.nextmedia.com/news/first/20141129/18951886" target="_BLANK">hk.apple.nextmedia.com/news/first/20141129/18951886</a> (2014年11月29日 10:22)
  ---
 RT @wenyunchao: 香港民众以后可以用这个手势跟碰到的警察打招呼。 <a href="https://twitter.com/wenyunchao/status/537985018782810112/photo/1" target="_BLANK">twitter.com/wenyunchao/status/537985018782810112/photo/1</a> (2014年11月29日 07:39)
@@ -111,9 +126,4 @@ Blocked on Weibo - How a Weibo post gets censored <a href="http://blockedonweibo
 Think @latimes hacked by Syrian Electronic Army - but still have enough time to get that turkey in the oven. <a href="https://twitter.com/GreatFireChina/status/537967437854302208/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/537967437854302208/photo/1</a> (2014年11月27日 21:53)
  ---
 RT @paopaonet: 在占中维持两个月之后，香港警方于25日和26日，在旺角弥敦道强制驱赶示威人士，警方与示威者多次发生冲突，并再次使用催泪弹强制清场。同日立法会通过“促请政府尽快提出切实可行政改方案”的动议 <a href="https://paopao3.azurewebsites.net/news/281" target="_BLANK">paopao3.azurewebsites.net/news/281</a> http:/… (2014年11月27日 15:16)
- ---
-RT @fightcensorship: 日本有人使用索尼Xperia手机时发现手机会自动发送信息到北京的服务器，结果引发广泛争议。后来经过专门调查，发现日本海外生产索尼手机安装了百度软件，一旦手机在中国使用时，谷歌被封锁，百度替代，但百度涉嫌替中国金盾工程收集个人信息。 ht… (2014年11月27日 15:14)
- ---
-RT @paopaonet: #中国互联网违法犯罪集团不完全档案花名册：“WireLurker(MacHook)”木马，”“推荐密贼”木马，越狱捆绑“太极助手”，流氓播放器“快播”。有意思的是，这些犯罪团伙的投资者都有一个共同的名字，叫“安全卫士360”。
-https://t.… (2014年11月27日 07:48)
  ---
