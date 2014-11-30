@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://e3191.dscc.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a984.da1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,11 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @ZhouFengSuo: 为了自由，在香港旺角的年轻人，《饥饿游戏》反抗暴政的手势。
+RT @donplusn:  #Mongkok #OccupyCentral #UmbrellaRevolution #OccupyHK #UmbrellaMovement http:… (2014年11月30日 09:03)
+ ---
+RT @remonwangxt: 為這個評論點讚 <a href="https://twitter.com/remonwangxt/status/538533924989710337/photo/1" target="_BLANK">twitter.com/remonwangxt/status/538533924989710337/photo/1</a> (2014年11月30日 09:03)
+ ---
 RT @zmt0516: 中国出了个江蛤蛤，
 多大的轮子也敢打，
 天不怕嘿地不怕，
@@ -122,8 +127,4 @@ RT @chenshaoju: 广电总局：电视节目禁用“人艰不拆”等网络用�
 RT @guardiantech: BREAKING: Syrian electronic army 'hacks' Independent, OK Magazine and NHL <a href="http://www.theguardian.com/technology/2014/nov/27/syrian-electronic-army-hacks-independent-ok-magazine-and-nhl?CMP=share_btn_tw" target="_BLANK">www.theguardian.com/technology/2014/nov/27/syrian-electronic-army-hacks-independent-ok-magazine-and-nhl</a> <a href="https://twitter.com/guardiantech/status/537956035244593152/photo/1" target="_BLANK">twitter.com/guardiantech/status/537956035244593152/photo/1</a> (2014年11月27日 22:56)
  ---
 Blocked on Weibo - How a Weibo post gets censored <a href="http://blockedonweibo.tumblr.com" target="_BLANK">blockedonweibo.tumblr.com</a> via @jasonqng (2014年11月27日 22:31)
- ---
-Think @latimes hacked by Syrian Electronic Army - but still have enough time to get that turkey in the oven. <a href="https://twitter.com/GreatFireChina/status/537967437854302208/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/537967437854302208/photo/1</a> (2014年11月27日 21:53)
- ---
-RT @paopaonet: 在占中维持两个月之后，香港警方于25日和26日，在旺角弥敦道强制驱赶示威人士，警方与示威者多次发生冲突，并再次使用催泪弹强制清场。同日立法会通过“促请政府尽快提出切实可行政改方案”的动议 <a href="https://paopao3.azurewebsites.net/news/281" target="_BLANK">paopao3.azurewebsites.net/news/281</a> http:/… (2014年11月27日 15:16)
  ---
