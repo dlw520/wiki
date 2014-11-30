@@ -10,7 +10,7 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
+                <a href="http://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx1">长期有效 1</a>，            
                 <a href="https://paopao3.azurewebsites.net" target="jx2">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx3">短期有效 2</a>
             </td>
@@ -25,7 +25,7 @@
         <tr>
             <td>Google 搜索</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx6">长期有效 1</a>，            
                 <a href="https://865ba.azurewebsites.net" target="jx7">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx8">短期有效 2</a>
             </td>
@@ -33,7 +33,7 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx9">长期有效 1</a>，            
                 <a href="https://fw6.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx11">短期有效 2</a>
             </td>
@@ -41,7 +41,7 @@
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
+                <a href="http://a123.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx12">长期有效 1</a>，            
                 <a href="https://39bf.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx14">短期有效 2</a>
             </td>
@@ -49,7 +49,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="http://a978.g1.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
+                <a href="http://e2546.g.akamaiedge.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx15">长期有效 1</a>，            
                 <a href="https://lantern1.azurewebsites.net" target="jx16">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx17">短期有效 2</a>
             </td>
@@ -72,6 +72,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: #关注一国两网 香港有着自由开放的互联网，而大陆的互联网已被严密坚守全盘控制，这种管控让港人不寒而栗。“我希望我们所有人都密切关注‘一国两网’，并确保我们能守护香港互联网的自由和公开。” <a href="https://paopao3.azurewebsites.net/article/285" target="_BLANK">paopao3.azurewebsites.net/article/285</a> http:/… (2014年11月30日 13:33)
+ ---
 RT @beidaijin: 【人人影视满血复活， 服务器或位于新加坡和韩国】28日人人影视可以正常访问。视频字幕目前都可下载，其IP地址位于新加坡和韩国。人人影视28日曾发微博：invictus maneo。这是美剧《疑犯追踪》第4季9集片尾拉丁文：我仍未被征服 http:/… (2014年11月30日 09:28)
  ---
 RT @ZhouFengSuo: 为了自由，在香港旺角的年轻人，《饥饿游戏》反抗暴政的手势。
@@ -125,6 +127,4 @@ RT @paopaonet: #防火墙拖了中国科学家的后腿 牛顿说：“如果说
 RT @chenshaoju: 广电总局：电视节目禁用“人艰不拆”等网络用语 违者停播 <a href="http://www.techweb.com.cn/it/2014-11-27/2101492.shtml" target="_BLANK">www.techweb.com.cn/it/2014-11-27/2101492.shtml</a> //真无聊。。。 (2014年11月28日 03:58)
  ---
 @Livid Users on V2ex expressed fear “collateral freedom” would lead to other content delivery networks being blocked. <a href="http://www.latimes.com/business/technology/la-fi-tn-great-firewall-china-censorship-20141126-story.html" target="_BLANK">www.latimes.com/business/technology/la-fi-tn-great-firewall-china-censorship-20141126-story.html</a> (2014年11月28日 00:41)
- ---
-RT @guardiantech: BREAKING: Syrian electronic army 'hacks' Independent, OK Magazine and NHL <a href="http://www.theguardian.com/technology/2014/nov/27/syrian-electronic-army-hacks-independent-ok-magazine-and-nhl?CMP=share_btn_tw" target="_BLANK">www.theguardian.com/technology/2014/nov/27/syrian-electronic-army-hacks-independent-ok-magazine-and-nhl</a> <a href="https://twitter.com/guardiantech/status/537956035244593152/photo/1" target="_BLANK">twitter.com/guardiantech/status/537956035244593152/photo/1</a> (2014年11月27日 22:56)
  ---
