@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw6.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @1dpwcom: 这张照片很有意思：一个黑警恶狠狠地对着和平示威民众喷辣椒水，一个尚有良知的警察伸手去阻止，另一个警察却去制止这名有良知的警察的劝阻。三个警察三个不同的表现。。。。 <a href="https://twitter.com/1dpwcom/status/539446794162147328/photo/1" target="_BLANK">twitter.com/1dpwcom/status/539446794162147328/photo/1</a> (2014年12月02日 04:18)
+ ---
 NYT profile of China’s Web Doorkeeper Lu Wei: 
 picker, grinner, lover, sinner
 joker, smoker, mid-night toker 
@@ -126,10 +128,4 @@ RT @paopaonet: #泡泡专访Tor开发者@ioerror Tor在长期被封锁之后又�
 RT @chengr28: 还记得我的项目 AntiChinaCerts 么……很多人反馈说这个 Anti China 是排华的意思，唉只恨英死早……当年建立项目也没考虑这么多事情。于是现在改成 RevokeChinaCerts 了，大家有空可以去试试看 https://t.c… (2014年11月28日 23:59)
  ---
 RT @paveo: instagram 偶尔能刷出来的原因是因为 CDN 有了台湾线路，中华电信的貌似。 (2014年11月28日 14:46)
- ---
-RT @overboming: iOS 上几大神奇应用：
-1. 轮询剪贴板，发本地通知查单词 
-2. 不越狱引入 CoreTelephony 挂电话实现来电防火墙，发本地通知实现来电归属地
-3. 更新音乐图片实现锁屏歌词滚动 
-4. 这次的骚扰电话写入电话本 (2014年11月28日 14:01)
  ---
