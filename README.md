@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw6.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @beidaijin: 崔成浩拼了个图 <a href="https://twitter.com/beidaijin/status/539287801443807232/photo/1" target="_BLANK">twitter.com/beidaijin/status/539287801443807232/photo/1</a> (2014年12月02日 04:23)
+ ---
+RT @beidaijin: 【中国移动：600位已婚妇女每天“鉴黄”1.2万件】28日首届国家网络安全宣传周上，中国移动专门负责人工审核色情淫秽信息的工作团队是由600位已婚有孩子的妇女组成，她们每天负责筛查疑似淫秽色情的图片、文字、音视频，鉴别后提交到系统一键封堵。每天能筛… (2014年12月02日 04:23)
+ ---
 RT @1dpwcom: 这张照片很有意思：一个黑警恶狠狠地对着和平示威民众喷辣椒水，一个尚有良知的警察伸手去阻止，另一个警察却去制止这名有良知的警察的劝阻。三个警察三个不同的表现。。。。 <a href="https://twitter.com/1dpwcom/status/539446794162147328/photo/1" target="_BLANK">twitter.com/1dpwcom/status/539446794162147328/photo/1</a> (2014年12月02日 04:18)
  ---
 NYT profile of China’s Web Doorkeeper Lu Wei: 
@@ -124,8 +128,4 @@ RT @fangshimin: 环球时报发社评称抚顺市作协选花千芳做副主席�
 RT @RTKcn: 51+ RT @bifurcat: 人人字幕版最新一集2 Broke Girls结尾的文字。 <a href="https://twitter.com/bifurcat/status/537398952669483008/photo/1" target="_BLANK">twitter.com/bifurcat/status/537398952669483008/photo/1</a> (2014年11月29日 01:15)
  ---
 RT @paopaonet: #泡泡专访Tor开发者@ioerror Tor在长期被封锁之后又再次回到中国。泡泡网日前在Twitter上征集了网友的问题，在一个网络大会上对Jacob Appelbaum进行了采访。<a href="https://paopao3.azurewebsites.net/article/284" target="_BLANK">paopao3.azurewebsites.net/article/284</a> http://t… (2014年11月29日 00:00)
- ---
-RT @chengr28: 还记得我的项目 AntiChinaCerts 么……很多人反馈说这个 Anti China 是排华的意思，唉只恨英死早……当年建立项目也没考虑这么多事情。于是现在改成 RevokeChinaCerts 了，大家有空可以去试试看 https://t.c… (2014年11月28日 23:59)
- ---
-RT @paveo: instagram 偶尔能刷出来的原因是因为 CDN 有了台湾线路，中华电信的貌似。 (2014年11月28日 14:46)
  ---
