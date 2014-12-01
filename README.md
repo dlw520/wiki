@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw6.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,11 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+NYT profile of China’s Web Doorkeeper Lu Wei: 
+picker, grinner, lover, sinner
+joker, smoker, mid-night toker 
+<a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F12%2F02%2Fworld%2Fasia%2Fgregarious-and-direct-chinas-web-doorkeeper.html%3Fsmid%3Dtw-share%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年12月02日 04:05)
+ ---
 RT @paopaonet: 2014年中华民国直辖市长及县市长选举（九合一选举）结果揭晓，蓝绿版图翻转。大陆官方媒体对此并没有太多报导，仅只言片语提及结果，并突出国民党候选人连胜文在发言中的“责任在个人”说，且基本无评论。<a href="https://paopao3.azurewebsites.net/article/287" target="_BLANK">paopao3.azurewebsites.net/article/287</a> (2014年12月01日 15:14)
  ---
 RT @paopaonet: #泡泡专访Tor开发者@ioerror  答@herac1es 提问：“我认为这（NSA攻击基于美国的免费软件项目）是极大的背叛，NSA根本不在乎美国文化中有关匿名的传统。” <a href="https://paopao3.azurewebsites.net/article/284" target="_BLANK">paopao3.azurewebsites.net/article/284</a> http://t.co/… (2014年12月01日 14:56)
@@ -127,6 +132,4 @@ RT @overboming: iOS 上几大神奇应用：
 2. 不越狱引入 CoreTelephony 挂电话实现来电防火墙，发本地通知实现来电归属地
 3. 更新音乐图片实现锁屏歌词滚动 
 4. 这次的骚扰电话写入电话本 (2014年11月28日 14:01)
- ---
-RT @paopaonet: #防火墙拖了中国科学家的后腿 牛顿说：“如果说我比别人看得更远些，那是因为我站在巨人的肩膀上。然而中国大陆的科研人员攀登巨人肩膀的过程特别吃力，甚至可能摔下来。这都是防火长城的“功劳”。<a href="https://paopao3.azurewebsites.net/article/282" target="_BLANK">paopao3.azurewebsites.net/article/282</a> http://… (2014年11月28日 03:59)
  ---
