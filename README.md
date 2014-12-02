@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw6.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -121,7 +121,7 @@ RT @zmt0516: 中国出了个江蛤蛤，
  ---
 RT @eric415chang: 「拉一個學生，內圍約10個防暴警，外圍再加超過20個軍裝，中間係一個手無寸鐵為民主付出的香港學生，'公義'與'霸權'的強烈對比！香港警察們，當你們看見這張照片時，你們感羞愧嗎？」 <a href="https://twitter.com/eric415chang/status/538728187065167873/photo/1" target="_BLANK">twitter.com/eric415chang/status/538728187065167873/photo/1</a> (2014年11月30日 07:27)
  ---
-《蘋果》記者被指襲警案,警員自撼攝錄機 <a href="http://hk.apple.nextmedia.com/error/page_missing" target="_BLANK">hk.apple.nextmedia.com/error/page_missing</a> (2014年11月29日 10:22)
+《蘋果》記者被指襲警案,警員自撼攝錄機 <a href="http://hk.apple.nextmedia.com/news/first/20141129/18951886" target="_BLANK">hk.apple.nextmedia.com/news/first/20141129/18951886</a> (2014年11月29日 10:22)
  ---
 RT @wenyunchao: 香港民众以后可以用这个手势跟碰到的警察打招呼。 <a href="https://twitter.com/wenyunchao/status/537985018782810112/photo/1" target="_BLANK">twitter.com/wenyunchao/status/537985018782810112/photo/1</a> (2014年11月29日 07:39)
  ---
