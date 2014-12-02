@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw6.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @unclenine: 索尼正式宣布将于12月11日下午17点在上海梅赛德斯-奔驰文化中心召开“PlayStation中国发布会”，公布PS4和PSV入华细节。PS4国行报价2999元。 (2014年12月02日 14:17)
+ ---
 RT @savourywest: 周一大早，媽來簡訊，告訴我妹妹在金鐘被警察用警棍打得頭破血流、遍體鱗傷。我趕緊搭車過去探望。來到之後，看見妹妹正在睡覺，頭上包裹繃帶。臉上卻依舊平和，沒有憤怒、恐懼、肅殺，起身說：要你專程來，有心了。⋯
 
  <a href="http://t.co/pLazQn" target="_BLANK">t.co/pLazQn</a>… (2014年12月02日 12:50)
@@ -128,6 +130,4 @@ RT @RTKcn: 18+ RT @HKfighter: 香港學聯副秘書長岑敖暉旺角清場時�
 RT @paopaonet: #安全翻墙请戴Tor 翻墙不代表就有信息安全保障，使用代理也不一定就能确保匿名。安全翻墙关键词：“不推荐使用国产VPN” ，“保护个人隐私信息，尽可能远离大陆网络平台和服务”。<a href="https://paopao3.azurewebsites.net/article/286" target="_BLANK">paopao3.azurewebsites.net/article/286</a> http://t.co/… (2014年11月29日 03:51)
  ---
 Senior police officer hitting people with baton as they move from occupied zone <a href="http://www.scmp.com/news/hong-kong/article/1650752/students-have-no-plan-retake-mong-kok-after-police-show-strength-says" target="_BLANK">www.scmp.com/news/hong-kong/article/1650752/students-have-no-plan-retake-mong-kok-after-police-show-strength-says</a> (2014年11月29日 01:47)
- ---
-RT @fangshimin: 环球时报发社评称抚顺市作协选花千芳做副主席很正常，因为“今天抚顺市还有哪位作家比花千芳更为人所知呢？”“围绕这件事的过度奇妙是一种幻觉。”果然周梦游应该当全国作协副主席了，因为今天全中国还有哪位作家比他更为人所知呢？全世界都出名了。还有，“过度奇… (2014年11月29日 01:18)
  ---
