@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw6.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @beidaijin: 这张图被全网封杀  到底哪里有问题？ <a href="https://twitter.com/beidaijin/status/539687710248554498/photo/1" target="_BLANK">twitter.com/beidaijin/status/539687710248554498/photo/1</a> (2014年12月03日 04:21)
+ ---
+RT @liuyun1989: 蘋果：對於北京拒絕英國議員訪港調查《中英聯合聲明》的執行情況，英國國會外交事務委員會主席奧塔韋形容中方採取「公然對立」的態度，並指這等同宣佈《中英聯合聲明》無效（null and void）。 <a href="https://twitter.com/liuyun1989/status/539730294299848704/photo/1" target="_BLANK">twitter.com/liuyun1989/status/539730294299848704/photo/1</a> (2014年12月03日 04:20)
+ ---
 RT @paopaonet: #泡泡报道 12月1号，黄之锋宣布“无限期”绝食。这是占中人士一直秉持的“非暴力”原则的极限，在“和平理性非暴力”完全不起作用、或者当局镇压“和理非”的情况下，香港民主人士又当如何坚持？
 <a href="https://paopao3.azurewebsites.net/article/291" target="_BLANK">paopao3.azurewebsites.net/article/291</a> http:/… (2014年12月03日 03:52)
  ---
@@ -127,8 +131,4 @@ RT @eric415chang: 「拉一個學生，內圍約10個防暴警，外圍再加超
 《蘋果》記者被指襲警案,警員自撼攝錄機 <a href="http://hk.apple.nextmedia.com/news/first/20141129/18951886" target="_BLANK">hk.apple.nextmedia.com/news/first/20141129/18951886</a> (2014年11月29日 10:22)
  ---
 RT @wenyunchao: 香港民众以后可以用这个手势跟碰到的警察打招呼。 <a href="https://twitter.com/wenyunchao/status/537985018782810112/photo/1" target="_BLANK">twitter.com/wenyunchao/status/537985018782810112/photo/1</a> (2014年11月29日 07:39)
- ---
-RT @RTKcn: 18+ RT @HKfighter: 香港學聯副秘書長岑敖暉旺角清場時被捕，正氣凜然，酷到極。 <a href="https://twitter.com/HKfighter/status/538424710695243777/photo/1" target="_BLANK">twitter.com/HKfighter/status/538424710695243777/photo/1</a> (2014年11月29日 07:37)
- ---
-RT @paopaonet: #安全翻墙请戴Tor 翻墙不代表就有信息安全保障，使用代理也不一定就能确保匿名。安全翻墙关键词：“不推荐使用国产VPN” ，“保护个人隐私信息，尽可能远离大陆网络平台和服务”。<a href="https://paopao3.azurewebsites.net/article/286" target="_BLANK">paopao3.azurewebsites.net/article/286</a> http://t.co/… (2014年11月29日 03:51)
  ---
