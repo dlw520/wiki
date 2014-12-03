@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,11 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @wiretapped: [2/2] run this:
+curl --insecure -H "Host: <a href="https://github.com/" target="_BLANK">github.com/</a>" -v <a href="https://github.com" target="_BLANK">github.com</a>.A520FF6C4690D131A96967BEDD7407… (2014年12月04日 03:57)
+ ---
+RT @wiretapped: want to experience russia's censorship of @github? add "AllowDotExit 1" to your /etc/tor/torrc, sudo service tor reload, an… (2014年12月04日 03:57)
+ ---
 RT @nytchinese: 【鲁炜，中国互联网的守门人】“他吸烟、喝酒、睡得晚、起得早，是个工作狂。他就像马戏团的总指挥，想要成为一切工作的中心，同时处理无数事情，而且他对此相当擅长。”
 <a href="http://cn.nytimes.com/china/20141202/c02internet/" target="_BLANK">cn.nytimes.com/china/20141202/c02internet/</a> <a href="http://t.co/AVVVcT7A" target="_BLANK">t.co/AVVVcT7A</a>… (2014年12月04日 03:44)
  ---
@@ -116,8 +121,4 @@ joker, smoker, mid-night toker
 <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F12%2F02%2Fworld%2Fasia%2Fgregarious-and-direct-chinas-web-doorkeeper.html%3Fsmid%3Dtw-share%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年12月02日 04:05)
  ---
 RT @paopaonet: 2014年中华民国直辖市长及县市长选举（九合一选举）结果揭晓，蓝绿版图翻转。大陆官方媒体对此并没有太多报导，仅只言片语提及结果，并突出国民党候选人连胜文在发言中的“责任在个人”说，且基本无评论。<a href="https://paopao3.azurewebsites.net/article/287" target="_BLANK">paopao3.azurewebsites.net/article/287</a> (2014年12月01日 15:14)
- ---
-RT @paopaonet: #泡泡专访Tor开发者@ioerror  答@herac1es 提问：“我认为这（NSA攻击基于美国的免费软件项目）是极大的背叛，NSA根本不在乎美国文化中有关匿名的传统。” <a href="https://paopao3.azurewebsites.net/article/284" target="_BLANK">paopao3.azurewebsites.net/article/284</a> http://t.co/… (2014年12月01日 14:56)
- ---
-RT @paopaonet: #关注一国两网 香港有着自由开放的互联网，而大陆的互联网已被严密坚守全盘控制，这种管控让港人不寒而栗。“我希望我们所有人都密切关注‘一国两网’，并确保我们能守护香港互联网的自由和公开。” <a href="https://paopao3.azurewebsites.net/article/285" target="_BLANK">paopao3.azurewebsites.net/article/285</a> http:/… (2014年11月30日 13:33)
  ---
