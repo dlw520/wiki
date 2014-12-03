@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+@niubi @abrownewsj they do block selective stories on @FTChinese and I guess the paywall saves the English ones from getting blocked (2014年12月04日 01:51)
+ ---
 RT @paopaonet: GitHub被俄罗斯政府屏蔽了，由于它们没有理睬俄政府要求删除被认为有问题的页面的要求。俄罗斯因为乌克兰事件被主要国际社区孤立，普京也加大了对互联网的控制。俄程序员表示俄互联网公司的高管支持建立一个防火墙，以将外国竞争对手排除在外。 https:/… (2014年12月04日 01:42)
  ---
 RT @fangshimin: “网络正能量”周同志要隐退了？退之前引文天祥诗“臣心一片磁针石，不指南方终不休”明志，是在暗示自己身在背景心向台湾？大家快来抓台湾间谍。 <a href="https://twitter.com/fangshimin/status/539985328472203264/photo/1" target="_BLANK">twitter.com/fangshimin/status/539985328472203264/photo/1</a> (2014年12月04日 01:17)
@@ -118,17 +120,4 @@ RT @ZhouFengSuo: 为了自由，在香港旺角的年轻人，《饥饿游戏》
 RT @donplusn:  #Mongkok #OccupyCentral #UmbrellaRevolution #OccupyHK #UmbrellaMovement http:… (2014年11月30日 09:03)
  ---
 RT @remonwangxt: 為這個評論點讚 <a href="https://twitter.com/remonwangxt/status/538533924989710337/photo/1" target="_BLANK">twitter.com/remonwangxt/status/538533924989710337/photo/1</a> (2014年11月30日 09:03)
- ---
-RT @zmt0516: 中国出了个江蛤蛤，
-多大的轮子也敢打，
-天不怕嘿地不怕，
-做梦都想见到他！
-中国还有个宋麻麻，
-最美的春晚送给她，
-保佑她祝福她，
-兴家兴国兴天下！
-江蛤蛤爱着宋麻麻，
-这样的爱情像神话，
-宋麻麻爱着江蛤蛤，
-有爱的天下最强大！ (2014年11月30日 07:29)
  ---
