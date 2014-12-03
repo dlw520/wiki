@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @RonDeibert: Days after we interviewed these former cops, Chinese authorities arrested two of them <a href="http://www.washingtonpost.com/blogs/worldviews/wp/2014/12/03/days-after-we-interviewed-these-former-cops-chinese-authorities-arrested-two-of-them/" target="_BLANK">www.washingtonpost.com/blogs/worldviews/wp/2014/12/03/days-after-we-interviewed-these-former-cops-chinese-authorities-arrested-two-of-them/</a> Did you email … (2014年12月04日 03:00)
+ ---
 @niubi @abrownewsj they do block selective stories on @FTChinese and I guess the paywall saves the English ones from getting blocked (2014年12月04日 01:51)
  ---
 RT @paopaonet: GitHub被俄罗斯政府屏蔽了，由于它们没有理睬俄政府要求删除被认为有问题的页面的要求。俄罗斯因为乌克兰事件被主要国际社区孤立，普京也加大了对互联网的控制。俄程序员表示俄互联网公司的高管支持建立一个防火墙，以将外国竞争对手排除在外。 https:/… (2014年12月04日 01:42)
@@ -118,6 +120,4 @@ RT @beidaijin: 【人人影视满血复活， 服务器或位于新加坡和韩�
  ---
 RT @ZhouFengSuo: 为了自由，在香港旺角的年轻人，《饥饿游戏》反抗暴政的手势。
 RT @donplusn:  #Mongkok #OccupyCentral #UmbrellaRevolution #OccupyHK #UmbrellaMovement http:… (2014年11月30日 09:03)
- ---
-RT @remonwangxt: 為這個評論點讚 <a href="https://twitter.com/remonwangxt/status/538533924989710337/photo/1" target="_BLANK">twitter.com/remonwangxt/status/538533924989710337/photo/1</a> (2014年11月30日 09:03)
  ---
