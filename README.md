@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,11 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @nytchinese: 【鲁炜，中国互联网的守门人】“他吸烟、喝酒、睡得晚、起得早，是个工作狂。他就像马戏团的总指挥，想要成为一切工作的中心，同时处理无数事情，而且他对此相当擅长。”
+<a href="http://cn.nytimes.com/china/20141202/c02internet/" target="_BLANK">cn.nytimes.com/china/20141202/c02internet/</a> <a href="http://t.co/AVVVcT7A" target="_BLANK">t.co/AVVVcT7A</a>… (2014年12月04日 03:44)
+ ---
+RT @fightcensorship: 中国政府拒绝英国议员进入香港，这意味着英国在这块昔日殖民地已经毫无影响力可言。其实，这也是一个教训，中英有关香港所签订的文件是国际协议，连国际协议都不放在眼里，将来与台湾或流亡藏人政府所签的协议（中国一向认为是内部事物）还能期望它遵守？ (2014年12月04日 03:41)
+ ---
 RT @RonDeibert: Days after we interviewed these former cops, Chinese authorities arrested two of them <a href="http://www.washingtonpost.com/blogs/worldviews/wp/2014/12/03/days-after-we-interviewed-these-former-cops-chinese-authorities-arrested-two-of-them/" target="_BLANK">www.washingtonpost.com/blogs/worldviews/wp/2014/12/03/days-after-we-interviewed-these-former-cops-chinese-authorities-arrested-two-of-them/</a> Did you email … (2014年12月04日 03:00)
  ---
 @niubi @abrownewsj they do block selective stories on @FTChinese and I guess the paywall saves the English ones from getting blocked (2014年12月04日 01:51)
@@ -115,9 +120,4 @@ RT @paopaonet: 2014年中华民国直辖市长及县市长选举（九合一选�
 RT @paopaonet: #泡泡专访Tor开发者@ioerror  答@herac1es 提问：“我认为这（NSA攻击基于美国的免费软件项目）是极大的背叛，NSA根本不在乎美国文化中有关匿名的传统。” <a href="https://paopao3.azurewebsites.net/article/284" target="_BLANK">paopao3.azurewebsites.net/article/284</a> http://t.co/… (2014年12月01日 14:56)
  ---
 RT @paopaonet: #关注一国两网 香港有着自由开放的互联网，而大陆的互联网已被严密坚守全盘控制，这种管控让港人不寒而栗。“我希望我们所有人都密切关注‘一国两网’，并确保我们能守护香港互联网的自由和公开。” <a href="https://paopao3.azurewebsites.net/article/285" target="_BLANK">paopao3.azurewebsites.net/article/285</a> http:/… (2014年11月30日 13:33)
- ---
-RT @beidaijin: 【人人影视满血复活， 服务器或位于新加坡和韩国】28日人人影视可以正常访问。视频字幕目前都可下载，其IP地址位于新加坡和韩国。人人影视28日曾发微博：invictus maneo。这是美剧《疑犯追踪》第4季9集片尾拉丁文：我仍未被征服 http:/… (2014年11月30日 09:28)
- ---
-RT @ZhouFengSuo: 为了自由，在香港旺角的年轻人，《饥饿游戏》反抗暴政的手势。
-RT @donplusn:  #Mongkok #OccupyCentral #UmbrellaRevolution #OccupyHK #UmbrellaMovement http:… (2014年11月30日 09:03)
  ---
