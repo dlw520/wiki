@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @fangshimin: “网络正能量”周同志要隐退了？退之前引文天祥诗“臣心一片磁针石，不指南方终不休”明志，是在暗示自己身在背景心向台湾？大家快来抓台湾间谍。 <a href="https://twitter.com/fangshimin/status/539985328472203264/photo/1" target="_BLANK">twitter.com/fangshimin/status/539985328472203264/photo/1</a> (2014年12月04日 01:17)
+ ---
+RT @RTKcn: 17+ RT @MyDF: 法官向宪法宣誓，誓词里宪法排首位，才是“宪法日”；宪法排第四，那是“宪法被日”。 <a href="https://twitter.com/MyDF/status/540116842862624768/photo/1" target="_BLANK">twitter.com/MyDF/status/540116842862624768/photo/1</a> (2014年12月04日 01:16)
+ ---
 RT @beidaijin: 这张图被全网封杀  到底哪里有问题？ <a href="https://twitter.com/beidaijin/status/539687710248554498/photo/1" target="_BLANK">twitter.com/beidaijin/status/539687710248554498/photo/1</a> (2014年12月03日 04:21)
  ---
 RT @liuyun1989: 蘋果：對於北京拒絕英國議員訪港調查《中英聯合聲明》的執行情況，英國國會外交事務委員會主席奧塔韋形容中方採取「公然對立」的態度，並指這等同宣佈《中英聯合聲明》無效（null and void）。 <a href="https://twitter.com/liuyun1989/status/539730294299848704/photo/1" target="_BLANK">twitter.com/liuyun1989/status/539730294299848704/photo/1</a> (2014年12月03日 04:20)
@@ -127,8 +131,4 @@ RT @zmt0516: 中国出了个江蛤蛤，
 有爱的天下最强大！ (2014年11月30日 07:29)
  ---
 RT @eric415chang: 「拉一個學生，內圍約10個防暴警，外圍再加超過20個軍裝，中間係一個手無寸鐵為民主付出的香港學生，'公義'與'霸權'的強烈對比！香港警察們，當你們看見這張照片時，你們感羞愧嗎？」 <a href="https://twitter.com/eric415chang/status/538728187065167873/photo/1" target="_BLANK">twitter.com/eric415chang/status/538728187065167873/photo/1</a> (2014年11月30日 07:27)
- ---
-《蘋果》記者被指襲警案,警員自撼攝錄機 <a href="http://hk.apple.nextmedia.com/news/first/20141129/18951886" target="_BLANK">hk.apple.nextmedia.com/news/first/20141129/18951886</a> (2014年11月29日 10:22)
- ---
-RT @wenyunchao: 香港民众以后可以用这个手势跟碰到的警察打招呼。 <a href="https://twitter.com/wenyunchao/status/537985018782810112/photo/1" target="_BLANK">twitter.com/wenyunchao/status/537985018782810112/photo/1</a> (2014年11月29日 07:39)
  ---
