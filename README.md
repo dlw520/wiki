@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: 俄罗斯程序员集体吐槽Github被封锁：“就为了要封锁一份根本无人关心的文件？不是玩真的吧？太他妈变态了。” 他们对俄政府是否解封Github报消极态度  <a href="https://paopao3.azurewebsites.net/article/293" target="_BLANK">paopao3.azurewebsites.net/article/293</a> <a href="https://twitter.com/paopaonet/status/540204041331286016/photo/1" target="_BLANK">twitter.com/paopaonet/status/540204041331286016/photo/1</a> (2014年12月04日 11:28)
+ ---
+China celebrating constitution day which includes freedom of speech. Comments of the report cannot be displayed. <a href="https://twitter.com/GreatFireChina/status/540346331072434177/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/540346331072434177/photo/1</a> (2014年12月04日 11:26)
+ ---
 RT @chenshaoju: 写着“还没有人评论，赶快抢个沙发”，然后下面写着１２３４５下一页， #呵呵 <a href="https://twitter.com/chenshaoju/status/540324291506487296/photo/1" target="_BLANK">twitter.com/chenshaoju/status/540324291506487296/photo/1</a> (2014年12月04日 11:23)
  ---
 RT @wiretapped: [2/2] run this:
@@ -114,11 +118,4 @@ RT @savourywest: 周一大早，媽來簡訊，告訴我妹妹在金鐘被警察
 RT @beidaijin: 崔成浩拼了个图 <a href="https://twitter.com/beidaijin/status/539287801443807232/photo/1" target="_BLANK">twitter.com/beidaijin/status/539287801443807232/photo/1</a> (2014年12月02日 04:23)
  ---
 RT @beidaijin: 【中国移动：600位已婚妇女每天“鉴黄”1.2万件】28日首届国家网络安全宣传周上，中国移动专门负责人工审核色情淫秽信息的工作团队是由600位已婚有孩子的妇女组成，她们每天负责筛查疑似淫秽色情的图片、文字、音视频，鉴别后提交到系统一键封堵。每天能筛… (2014年12月02日 04:23)
- ---
-RT @1dpwcom: 这张照片很有意思：一个黑警恶狠狠地对着和平示威民众喷辣椒水，一个尚有良知的警察伸手去阻止，另一个警察却去制止这名有良知的警察的劝阻。三个警察三个不同的表现。。。。 <a href="https://twitter.com/1dpwcom/status/539446794162147328/photo/1" target="_BLANK">twitter.com/1dpwcom/status/539446794162147328/photo/1</a> (2014年12月02日 04:18)
- ---
-NYT profile of China’s Web Doorkeeper Lu Wei: 
-picker, grinner, lover, sinner
-joker, smoker, mid-night toker 
-<a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F12%2F02%2Fworld%2Fasia%2Fgregarious-and-direct-chinas-web-doorkeeper.html%3Fsmid%3Dtw-share%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年12月02日 04:05)
  ---
