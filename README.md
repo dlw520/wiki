@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: #泡泡快讯 【台湾逮捕首名大陆间谍】大陆籍男子镇小江吸收台湾退役飞行官员周自立，透过周在台湾发展间谍网络，并取得军中机密，辗转交给大陆情报单位。台湾国安局表示，镇小江已被捕，目前正由司法侦办中。<a href="http://www.nanzao.com/sc/hk/43813/tai-zheng-shi-dai-bu-shou-ming-zai-tai-da-lu-ji-jian-die" target="_BLANK">www.nanzao.com/sc/hk/43813/tai-zheng-shi-dai-bu-shou-ming-zai-tai-da-lu-ji-jian-die</a> (2014年12月05日 05:11)
+ ---
 他的履历让我印象深刻，知名学府浙江大学硕士毕业，曾任职于世界500强外企。而他最终选择返回老家担任一个月薪仅3000元的网络舆情分析师。至于是否喜欢他这份未来的舆情管理工作，肖冬反问道，“哪有那么多的喜欢和满意？就这样，挺好的。 <a href="https://paopao3.azurewebsites.net/article/153" target="_BLANK">paopao3.azurewebsites.net/article/153</a> (2014年12月05日 05:09)
  ---
 China Tried To Get World Internet Conference Attendees To Ratify This Ridiculous Draft Declaration <a href="http://techcrunch.com/2014/11/20/worldinternetconference-declaration/" target="_BLANK">techcrunch.com/2014/11/20/worldinternetconference-declaration/</a> (2014年12月05日 04:44)
@@ -112,7 +114,4 @@ RT @wiretapped: [2/2] run this:
 curl --insecure -H "Host: <a href="https://github.com/" target="_BLANK">github.com/</a>" -v <a href="https://github.com" target="_BLANK">github.com</a>.A520FF6C4690D131A96967BEDD7407… (2014年12月04日 03:57)
  ---
 RT @wiretapped: want to experience russia's censorship of @github? add "AllowDotExit 1" to your /etc/tor/torrc, sudo service tor reload, an… (2014年12月04日 03:57)
- ---
-RT @nytchinese: 【鲁炜，中国互联网的守门人】“他吸烟、喝酒、睡得晚、起得早，是个工作狂。他就像马戏团的总指挥，想要成为一切工作的中心，同时处理无数事情，而且他对此相当擅长。”
-<a href="http://cn.nytimes.com/china/20141202/c02internet/" target="_BLANK">cn.nytimes.com/china/20141202/c02internet/</a> <a href="http://t.co/AVVVcT7A" target="_BLANK">t.co/AVVVcT7A</a>… (2014年12月04日 03:44)
  ---
