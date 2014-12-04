@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -82,7 +82,7 @@ RT @hnjhj: 通过展现民意达到政治目的，前提是政府必须在乎民
  ---
 RT @knifepoint: W说她不得不给幼儿园老师送礼。她孩子4岁。幼儿园老师明确地向家长索要。如果不送礼，会有很多「不方便」，比如午睡后老师不帮小孩穿衣服。小孩自己穿衣会穿得很慢，秋冬季节天气寒冷，孩子容易着凉。不送礼，孩子就会不断地感冒生病。我听着只觉恐怖，这国家各个… (2014年12月04日 13:02)
  ---
-RT @myntee8: 路透社报道，因为水中携带了大量污染物和沉积物，投资620亿美元的南水北调第一阶段水到天津时已无法使用<a href="http://url.cn/VPuMES" target="_BLANK">url.cn/VPuMES</a>  ——近4000亿人民币打水漂，见证了一个正腐的无知、无德与野蛮。 (2014年12月04日 12:59)
+RT @myntee8: 路透社报道，因为水中携带了大量污染物和沉积物，投资620亿美元的南水北调第一阶段水到天津时已无法使用<a href="http://money.163.com/api/14/1014/09/A8GP2B8500254U80.html?2345" target="_BLANK">money.163.com/api/14/1014/09/A8GP2B8500254U80.html</a>  ——近4000亿人民币打水漂，见证了一个正腐的无知、无德与野蛮。 (2014年12月04日 12:59)
  ---
 Hollywood Bows to Chinese Censors, Courts Investors <a href="http://www.bloomberg.com/news/2014-12-02/hollywood-bows-to-chinese-censors-courts-investors.html" target="_BLANK">www.bloomberg.com/news/2014-12-02/hollywood-bows-to-chinese-censors-courts-investors.html</a> (2014年12月04日 12:57)
  ---
