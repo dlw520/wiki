@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @williamlong: 【网站反屏蔽的方法】很多网站管理员可能会遇到这种情况，自己的网站突然之间无法从国内访问了，遇到这种情况后，网站主如何应对，这里就介绍几个站长反屏蔽的常见方法。... <a href="http://www.williamlong.info/archives/4064.html" target="_BLANK">www.williamlong.info/archives/4064.html</a> (2014年12月05日 05:49)
+ ---
 RT @paopaonet: #泡泡快讯 【台湾逮捕首名大陆间谍】大陆籍男子镇小江吸收台湾退役飞行官员周自立，透过周在台湾发展间谍网络，并取得军中机密，辗转交给大陆情报单位。台湾国安局表示，镇小江已被捕，目前正由司法侦办中。<a href="http://www.nanzao.com/sc/hk/43813/tai-zheng-shi-dai-bu-shou-ming-zai-tai-da-lu-ji-jian-die" target="_BLANK">www.nanzao.com/sc/hk/43813/tai-zheng-shi-dai-bu-shou-ming-zai-tai-da-lu-ji-jian-die</a> (2014年12月05日 05:11)
  ---
 他的履历让我印象深刻，知名学府浙江大学硕士毕业，曾任职于世界500强外企。而他最终选择返回老家担任一个月薪仅3000元的网络舆情分析师。至于是否喜欢他这份未来的舆情管理工作，肖冬反问道，“哪有那么多的喜欢和满意？就这样，挺好的。 <a href="https://paopao3.azurewebsites.net/article/153" target="_BLANK">paopao3.azurewebsites.net/article/153</a> (2014年12月05日 05:09)
@@ -112,6 +114,4 @@ RT @chenshaoju: 写着“还没有人评论，赶快抢个沙发”，然后下�
  ---
 RT @wiretapped: [2/2] run this:
 curl --insecure -H "Host: <a href="https://github.com/" target="_BLANK">github.com/</a>" -v <a href="https://github.com" target="_BLANK">github.com</a>.A520FF6C4690D131A96967BEDD7407… (2014年12月04日 03:57)
- ---
-RT @wiretapped: want to experience russia's censorship of @github? add "AllowDotExit 1" to your /etc/tor/torrc, sudo service tor reload, an… (2014年12月04日 03:57)
  ---
