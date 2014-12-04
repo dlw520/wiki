@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+China Tried To Get World Internet Conference Attendees To Ratify This Ridiculous Draft Declaration <a href="http://techcrunch.com/2014/11/20/worldinternetconference-declaration/" target="_BLANK">techcrunch.com/2014/11/20/worldinternetconference-declaration/</a> (2014年12月05日 04:44)
+ ---
 RT @paopaonet: 互联网大会闭幕式前夜晚间十一点左右，与会代表的酒店房间门缝里塞进来一份“神秘文件” - “乌镇宣言”，内容包括各种“中国特色”的互联网经贸，互联网主权和网络安全等内容 @TechCrunch 在报道中形容其为“荒唐滑稽，令人不安”。https://… (2014年12月05日 04:39)
  ---
 RT @mranti: 肯尼亚警方发现一处疑似进行网络攻击的据点，现场抓了77个中国人。#靠搞什么飞机 <a href="http://www.nation.co.ke/news/77-Chinese-held-in-cyber-bust/-/1056/2543786/-/t5vf43/-/index.html" target="_BLANK">www.nation.co.ke/news/77-Chinese-held-in-cyber-bust/-/1056/2543786/-/t5vf43/-/index.html</a> (2014年12月05日 04:39)
@@ -113,6 +115,4 @@ RT @nytchinese: 【鲁炜，中国互联网的守门人】“他吸烟、喝酒�
 <a href="http://cn.nytimes.com/china/20141202/c02internet/" target="_BLANK">cn.nytimes.com/china/20141202/c02internet/</a> <a href="http://t.co/AVVVcT7A" target="_BLANK">t.co/AVVVcT7A</a>… (2014年12月04日 03:44)
  ---
 RT @fightcensorship: 中国政府拒绝英国议员进入香港，这意味着英国在这块昔日殖民地已经毫无影响力可言。其实，这也是一个教训，中英有关香港所签订的文件是国际协议，连国际协议都不放在眼里，将来与台湾或流亡藏人政府所签的协议（中国一向认为是内部事物）还能期望它遵守？ (2014年12月04日 03:41)
- ---
-RT @RonDeibert: Days after we interviewed these former cops, Chinese authorities arrested two of them <a href="http://www.washingtonpost.com/blogs/worldviews/wp/2014/12/03/days-after-we-interviewed-these-former-cops-chinese-authorities-arrested-two-of-them/" target="_BLANK">www.washingtonpost.com/blogs/worldviews/wp/2014/12/03/days-after-we-interviewed-these-former-cops-chinese-authorities-arrested-two-of-them/</a> Did you email … (2014年12月04日 03:00)
  ---
