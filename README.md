@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @hnjhj: 通过展现民意达到政治目的，前提是政府必须在乎民意。这在民主国家可行，因为政府有义务听取民意，如果政府不听反对党会抢着听，所以不管政府听还是不听，只要能够聚集一定数量的人群，政治目的就必然达到。而这个前提在香港和中国是不存在的，政府可以完全忽略民意。 (2014年12月04日 14:47)
+ ---
 RT @knifepoint: W说她不得不给幼儿园老师送礼。她孩子4岁。幼儿园老师明确地向家长索要。如果不送礼，会有很多「不方便」，比如午睡后老师不帮小孩穿衣服。小孩自己穿衣会穿得很慢，秋冬季节天气寒冷，孩子容易着凉。不送礼，孩子就会不断地感冒生病。我听着只觉恐怖，这国家各个… (2014年12月04日 13:02)
  ---
 RT @myntee8: 路透社报道，因为水中携带了大量污染物和沉积物，投资620亿美元的南水北调第一阶段水到天津时已无法使用<a href="http://money.163.com/api/14/1014/09/A8GP2B8500254U80.html?2345" target="_BLANK">money.163.com/api/14/1014/09/A8GP2B8500254U80.html</a>  ——近4000亿人民币打水漂，见证了一个正腐的无知、无德与野蛮。 (2014年12月04日 12:59)
@@ -114,6 +116,4 @@ RT @liuyun1989: 蘋果：對於北京拒絕英國議員訪港調查《中英聯�
  ---
 RT @paopaonet: #泡泡报道 12月1号，黄之锋宣布“无限期”绝食。这是占中人士一直秉持的“非暴力”原则的极限，在“和平理性非暴力”完全不起作用、或者当局镇压“和理非”的情况下，香港民主人士又当如何坚持？
 <a href="https://paopao3.azurewebsites.net/article/291" target="_BLANK">paopao3.azurewebsites.net/article/291</a> http:/… (2014年12月03日 03:52)
- ---
-RT @unclenine: 索尼正式宣布将于12月11日下午17点在上海梅赛德斯-奔驰文化中心召开“PlayStation中国发布会”，公布PS4和PSV入华细节。PS4国行报价2999元。 (2014年12月02日 14:17)
  ---
