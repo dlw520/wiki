@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @RTKcn: 17+ RT @chengr28: 大概知道为什么要整弹幕了ww <a href="https://twitter.com/chengr28/status/540492144637931520/photo/1" target="_BLANK">twitter.com/chengr28/status/540492144637931520/photo/1</a> (2014年12月05日 04:28)
+ ---
+RT @laokalaoka: 警棍当然可怕，催泪弹橡胶子弹当然可怕，坦克就更可怕了，极权之下苟活多年的我们当然理解你们的害怕。不过，你们现在不可能理解我们的害怕，我在写这条推时，都害怕，在犹豫要不要把坦克写成拖拉机。祝福你们永远不会明白不用体验这种害怕。 (2014年12月05日 04:26)
+ ---
 RT @ChinaFile: Can China Conquer the Internet? Xiao Qiang @CDTimes @BerkeleyISchool joins the Conversation <a href="http://www.chinafile.com/conversation/can-china-conquer-internet?utm_content=buffer4b2ee&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#comment-951" target="_BLANK">www.chinafile.com/conversation/can-china-conquer-internet</a> http://t.… (2014年12月05日 03:34)
  ---
 RT @paopaonet: #兔泡泡Oo 来自公民实验室博客：66个不能在微博上发出的关键词列表<a href="https://github.com/jasonqng/weibo-data/blob/master/data/2014-11_66-words-you-cant-post-on-weibo.csv" target="_BLANK">github.com/jasonqng/weibo-data/blob/master/data/2014-11_66-words-you-cant-post-on-weibo.csv</a> ；133个会导致所发出微博不可见的关键词列表：<a href="https://github.com/jasonqng/weibo-data/blob/master/data/2014-11_133-keywords-which-cause-posts-to-be-hidden-invisible-on-weibo.csv" target="_BLANK">github.com/jasonqng/weibo-data/blob/master/data/2014-11_133-keywords-which-cause-posts-to-be-hidden-invisible-on-weibo.csv</a> <a href="http://t.co/fRww28G" target="_BLANK">t.co/fRww28G</a>… (2014年12月04日 15:05)
@@ -111,8 +115,4 @@ RT @RonDeibert: Days after we interviewed these former cops, Chinese authorities
 @niubi @abrownewsj they do block selective stories on @FTChinese and I guess the paywall saves the English ones from getting blocked (2014年12月04日 01:51)
  ---
 RT @paopaonet: GitHub被俄罗斯政府屏蔽了，由于它们没有理睬俄政府要求删除被认为有问题的页面的要求。俄罗斯因为乌克兰事件被主要国际社区孤立，普京也加大了对互联网的控制。俄程序员表示俄互联网公司的高管支持建立一个防火墙，以将外国竞争对手排除在外。 https:/… (2014年12月04日 01:42)
- ---
-RT @fangshimin: “网络正能量”周同志要隐退了？退之前引文天祥诗“臣心一片磁针石，不指南方终不休”明志，是在暗示自己身在背景心向台湾？大家快来抓台湾间谍。 <a href="https://twitter.com/fangshimin/status/539985328472203264/photo/1" target="_BLANK">twitter.com/fangshimin/status/539985328472203264/photo/1</a> (2014年12月04日 01:17)
- ---
-RT @RTKcn: 17+ RT @MyDF: 法官向宪法宣誓，誓词里宪法排首位，才是“宪法日”；宪法排第四，那是“宪法被日”。 <a href="https://twitter.com/MyDF/status/540116842862624768/photo/1" target="_BLANK">twitter.com/MyDF/status/540116842862624768/photo/1</a> (2014年12月04日 01:16)
  ---
