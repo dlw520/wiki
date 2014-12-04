@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @laoyang945: 群星最后的金色： “进毒气室了，你就不会憋气吗！？只要勤奋练习到憋足30分钟，虽然也有皮肤吸收，但毕竟生还率大了很多！” “契卡要枪决你，你就不会躲子弹吗！？自己跑的没有子弹快的loser，就不要什么都怪体制了！” (2014年12月05日 05:52)
+ ---
+RT @remonwangxt: 聽說今天是貴國首個憲法紀念日啊，我記得這部憲法已經被黨日了很多年了呢，特作此畫紀念之 <a href="https://twitter.com/remonwangxt/status/540490111935197186/photo/1" target="_BLANK">twitter.com/remonwangxt/status/540490111935197186/photo/1</a> (2014年12月05日 05:51)
+ ---
 RT @williamlong: 【网站反屏蔽的方法】很多网站管理员可能会遇到这种情况，自己的网站突然之间无法从国内访问了，遇到这种情况后，网站主如何应对，这里就介绍几个站长反屏蔽的常见方法。... <a href="http://www.williamlong.info/archives/4064.html" target="_BLANK">www.williamlong.info/archives/4064.html</a> (2014年12月05日 05:49)
  ---
 RT @paopaonet: #泡泡快讯 【台湾逮捕首名大陆间谍】大陆籍男子镇小江吸收台湾退役飞行官员周自立，透过周在台湾发展间谍网络，并取得军中机密，辗转交给大陆情报单位。台湾国安局表示，镇小江已被捕，目前正由司法侦办中。<a href="http://www.nanzao.com/sc/hk/43813/tai-zheng-shi-dai-bu-shou-ming-zai-tai-da-lu-ji-jian-die" target="_BLANK">www.nanzao.com/sc/hk/43813/tai-zheng-shi-dai-bu-shou-ming-zai-tai-da-lu-ji-jian-die</a> (2014年12月05日 05:11)
@@ -109,9 +113,4 @@ RT @fightcensorship: 大家都知道中国有网络封锁，但对其他领域�
 RT @paopaonet: 俄罗斯程序员集体吐槽Github被封锁：“就为了要封锁一份根本无人关心的文件？不是玩真的吧？太他妈变态了。” 他们对俄政府是否解封Github报消极态度  <a href="https://paopao3.azurewebsites.net/article/293" target="_BLANK">paopao3.azurewebsites.net/article/293</a> <a href="https://twitter.com/paopaonet/status/540204041331286016/photo/1" target="_BLANK">twitter.com/paopaonet/status/540204041331286016/photo/1</a> (2014年12月04日 11:28)
  ---
 China celebrating constitution day which includes freedom of speech. Comments of the report cannot be displayed. <a href="https://twitter.com/GreatFireChina/status/540346331072434177/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/540346331072434177/photo/1</a> (2014年12月04日 11:26)
- ---
-RT @chenshaoju: 写着“还没有人评论，赶快抢个沙发”，然后下面写着１２３４５下一页， #呵呵 <a href="https://twitter.com/chenshaoju/status/540324291506487296/photo/1" target="_BLANK">twitter.com/chenshaoju/status/540324291506487296/photo/1</a> (2014年12月04日 11:23)
- ---
-RT @wiretapped: [2/2] run this:
-curl --insecure -H "Host: <a href="https://github.com/" target="_BLANK">github.com/</a>" -v <a href="https://github.com" target="_BLANK">github.com</a>.A520FF6C4690D131A96967BEDD7407… (2014年12月04日 03:57)
  ---
