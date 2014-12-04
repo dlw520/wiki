@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+他的履历让我印象深刻，知名学府浙江大学硕士毕业，曾任职于世界500强外企。而他最终选择返回老家担任一个月薪仅3000元的网络舆情分析师。至于是否喜欢他这份未来的舆情管理工作，肖冬反问道，“哪有那么多的喜欢和满意？就这样，挺好的。 <a href="https://paopao3.azurewebsites.net/article/153" target="_BLANK">paopao3.azurewebsites.net/article/153</a> (2014年12月05日 05:09)
+ ---
 China Tried To Get World Internet Conference Attendees To Ratify This Ridiculous Draft Declaration <a href="http://techcrunch.com/2014/11/20/worldinternetconference-declaration/" target="_BLANK">techcrunch.com/2014/11/20/worldinternetconference-declaration/</a> (2014年12月05日 04:44)
  ---
 RT @paopaonet: 互联网大会闭幕式前夜晚间十一点左右，与会代表的酒店房间门缝里塞进来一份“神秘文件” - “乌镇宣言”，内容包括各种“中国特色”的互联网经贸，互联网主权和网络安全等内容 @TechCrunch 在报道中形容其为“荒唐滑稽，令人不安”。https://… (2014年12月05日 04:39)
@@ -113,6 +115,4 @@ RT @wiretapped: want to experience russia's censorship of @github? add "AllowDot
  ---
 RT @nytchinese: 【鲁炜，中国互联网的守门人】“他吸烟、喝酒、睡得晚、起得早，是个工作狂。他就像马戏团的总指挥，想要成为一切工作的中心，同时处理无数事情，而且他对此相当擅长。”
 <a href="http://cn.nytimes.com/china/20141202/c02internet/" target="_BLANK">cn.nytimes.com/china/20141202/c02internet/</a> <a href="http://t.co/AVVVcT7A" target="_BLANK">t.co/AVVVcT7A</a>… (2014年12月04日 03:44)
- ---
-RT @fightcensorship: 中国政府拒绝英国议员进入香港，这意味着英国在这块昔日殖民地已经毫无影响力可言。其实，这也是一个教训，中英有关香港所签订的文件是国际协议，连国际协议都不放在眼里，将来与台湾或流亡藏人政府所签的协议（中国一向认为是内部事物）还能期望它遵守？ (2014年12月04日 03:41)
  ---
