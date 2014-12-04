@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: 互联网大会闭幕式前夜晚间十一点左右，与会代表的酒店房间门缝里塞进来一份“神秘文件” - “乌镇宣言”，内容包括各种“中国特色”的互联网经贸，互联网主权和网络安全等内容 @TechCrunch 在报道中形容其为“荒唐滑稽，令人不安”。https://… (2014年12月05日 04:39)
+ ---
+RT @mranti: 肯尼亚警方发现一处疑似进行网络攻击的据点，现场抓了77个中国人。#靠搞什么飞机 <a href="http://www.nation.co.ke/news/77-Chinese-held-in-cyber-bust/-/1056/2543786/-/t5vf43/-/index.html" target="_BLANK">www.nation.co.ke/news/77-Chinese-held-in-cyber-bust/-/1056/2543786/-/t5vf43/-/index.html</a> (2014年12月05日 04:39)
+ ---
 RT @RTKcn: 17+ RT @chengr28: 大概知道为什么要整弹幕了ww <a href="https://twitter.com/chengr28/status/540492144637931520/photo/1" target="_BLANK">twitter.com/chengr28/status/540492144637931520/photo/1</a> (2014年12月05日 04:28)
  ---
 RT @laokalaoka: 警棍当然可怕，催泪弹橡胶子弹当然可怕，坦克就更可怕了，极权之下苟活多年的我们当然理解你们的害怕。不过，你们现在不可能理解我们的害怕，我在写这条推时，都害怕，在犹豫要不要把坦克写成拖拉机。祝福你们永远不会明白不用体验这种害怕。 (2014年12月05日 04:26)
@@ -111,8 +115,4 @@ RT @nytchinese: 【鲁炜，中国互联网的守门人】“他吸烟、喝酒�
 RT @fightcensorship: 中国政府拒绝英国议员进入香港，这意味着英国在这块昔日殖民地已经毫无影响力可言。其实，这也是一个教训，中英有关香港所签订的文件是国际协议，连国际协议都不放在眼里，将来与台湾或流亡藏人政府所签的协议（中国一向认为是内部事物）还能期望它遵守？ (2014年12月04日 03:41)
  ---
 RT @RonDeibert: Days after we interviewed these former cops, Chinese authorities arrested two of them <a href="http://www.washingtonpost.com/blogs/worldviews/wp/2014/12/03/days-after-we-interviewed-these-former-cops-chinese-authorities-arrested-two-of-them/" target="_BLANK">www.washingtonpost.com/blogs/worldviews/wp/2014/12/03/days-after-we-interviewed-these-former-cops-chinese-authorities-arrested-two-of-them/</a> Did you email … (2014年12月04日 03:00)
- ---
-@niubi @abrownewsj they do block selective stories on @FTChinese and I guess the paywall saves the English ones from getting blocked (2014年12月04日 01:51)
- ---
-RT @paopaonet: GitHub被俄罗斯政府屏蔽了，由于它们没有理睬俄政府要求删除被认为有问题的页面的要求。俄罗斯因为乌克兰事件被主要国际社区孤立，普京也加大了对互联网的控制。俄程序员表示俄互联网公司的高管支持建立一个防火墙，以将外国竞争对手排除在外。 https:/… (2014年12月04日 01:42)
  ---
