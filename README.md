@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @myntee8: 路透社报道，因为水中携带了大量污染物和沉积物，投资620亿美元的南水北调第一阶段水到天津时已无法使用<a href="http://money.163.com/api/14/1014/09/A8GP2B8500254U80.html?2345" target="_BLANK">money.163.com/api/14/1014/09/A8GP2B8500254U80.html</a>  ——近4000亿人民币打水漂，见证了一个正腐的无知、无德与野蛮。 (2014年12月04日 12:59)
+ ---
+Hollywood Bows to Chinese Censors, Courts Investors <a href="http://www.bloomberg.com/news/2014-12-02/hollywood-bows-to-chinese-censors-courts-investors.html" target="_BLANK">www.bloomberg.com/news/2014-12-02/hollywood-bows-to-chinese-censors-courts-investors.html</a> (2014年12月04日 12:57)
+ ---
+RT @fightcensorship: 大家都知道中国有网络封锁，但对其他领域的封锁并不太了解。彭博社发文说，好莱坞向中国低头，为了进入中国市场屈服中国政府的要求，对某些场景进行过滤和删除。如今大连万达要收购好莱坞制片公司，阿里巴巴的马云也要成为合作伙伴，好莱坞已经不独立了。… (2014年12月04日 12:57)
+ ---
 RT @paopaonet: 俄罗斯程序员集体吐槽Github被封锁：“就为了要封锁一份根本无人关心的文件？不是玩真的吧？太他妈变态了。” 他们对俄政府是否解封Github报消极态度  <a href="https://paopao3.azurewebsites.net/article/293" target="_BLANK">paopao3.azurewebsites.net/article/293</a> <a href="https://twitter.com/paopaonet/status/540204041331286016/photo/1" target="_BLANK">twitter.com/paopaonet/status/540204041331286016/photo/1</a> (2014年12月04日 11:28)
  ---
 China celebrating constitution day which includes freedom of speech. Comments of the report cannot be displayed. <a href="https://twitter.com/GreatFireChina/status/540346331072434177/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/540346331072434177/photo/1</a> (2014年12月04日 11:26)
@@ -112,10 +118,4 @@ RT @unclenine: 索尼正式宣布将于12月11日下午17点在上海梅赛德�
 RT @savourywest: 周一大早，媽來簡訊，告訴我妹妹在金鐘被警察用警棍打得頭破血流、遍體鱗傷。我趕緊搭車過去探望。來到之後，看見妹妹正在睡覺，頭上包裹繃帶。臉上卻依舊平和，沒有憤怒、恐懼、肅殺，起身說：要你專程來，有心了。⋯
 
  <a href="http://t.co/pLazQn" target="_BLANK">t.co/pLazQn</a>… (2014年12月02日 12:50)
- ---
-香港占中示威者与警方爆发冲突 政府总部暂停开放 <a href="http://cn.reuters.com/article/CNTopGenNews/idCNKCS0JF1FO20141201" target="_BLANK">cn.reuters.com/article/CNTopGenNews/idCNKCS0JF1FO20141201</a> (2014年12月02日 04:46)
- ---
-RT @beidaijin: 崔成浩拼了个图 <a href="https://twitter.com/beidaijin/status/539287801443807232/photo/1" target="_BLANK">twitter.com/beidaijin/status/539287801443807232/photo/1</a> (2014年12月02日 04:23)
- ---
-RT @beidaijin: 【中国移动：600位已婚妇女每天“鉴黄”1.2万件】28日首届国家网络安全宣传周上，中国移动专门负责人工审核色情淫秽信息的工作团队是由600位已婚有孩子的妇女组成，她们每天负责筛查疑似淫秽色情的图片、文字、音视频，鉴别后提交到系统一键封堵。每天能筛… (2014年12月02日 04:23)
  ---
