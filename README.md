@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @paopaonet: 全球首家漏洞响应平台“补天”上线。作为连接企业与白帽子的专业平台，“补天”将通过帮助企业建立SRC，让企业网络安全，让白帽获得收益，最大程度保障企业网络安全。哦对了，这个平台是360推出的<a href="https://paopao3.azurewebsites.net/article/280" target="_BLANK">paopao3.azurewebsites.net/article/280</a> http:/… (2014年12月05日 13:19)
+ ---
 RT @Leaskh: 百度 DNS 依然是练过葵花宝典的嘛，废物，鉴定完毕。 <a href="https://twitter.com/Leaskh/status/540537715356229632/photo/1" target="_BLANK">twitter.com/Leaskh/status/540537715356229632/photo/1</a> (2014年12月05日 13:04)
  ---
 RT @rediantoday: 动漫网站极影动漫和动漫花园等网站或遭有关部门封杀，网站已无法打开。这或将是继人人影视、射手网之后又一轮因版权问题而被关闭的影视类网站。极影动漫(<a href="http://bt.ktxp.com" target="_BLANK">bt.ktxp.com</a> <a href="http://redian.today/t/222617" target="_BLANK">redian.today/t/222617</a> http… (2014年12月05日 12:50)
@@ -111,6 +113,4 @@ RT @knifepoint: W说她不得不给幼儿园老师送礼。她孩子4岁。幼�
 RT @myntee8: 路透社报道，因为水中携带了大量污染物和沉积物，投资620亿美元的南水北调第一阶段水到天津时已无法使用<a href="http://money.163.com/api/14/1014/09/A8GP2B8500254U80.html?2345" target="_BLANK">money.163.com/api/14/1014/09/A8GP2B8500254U80.html</a>  ——近4000亿人民币打水漂，见证了一个正腐的无知、无德与野蛮。 (2014年12月04日 12:59)
  ---
 Hollywood Bows to Chinese Censors, Courts Investors <a href="http://www.bloomberg.com/news/2014-12-02/hollywood-bows-to-chinese-censors-courts-investors.html" target="_BLANK">www.bloomberg.com/news/2014-12-02/hollywood-bows-to-chinese-censors-courts-investors.html</a> (2014年12月04日 12:57)
- ---
-RT @fightcensorship: 大家都知道中国有网络封锁，但对其他领域的封锁并不太了解。彭博社发文说，好莱坞向中国低头，为了进入中国市场屈服中国政府的要求，对某些场景进行过滤和删除。如今大连万达要收购好莱坞制片公司，阿里巴巴的马云也要成为合作伙伴，好莱坞已经不独立了。… (2014年12月04日 12:57)
  ---
