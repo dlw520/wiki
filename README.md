@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @yancaiwm: 柯文哲：在台大校园立牌子“台湾独立”，没有人会理你。上面写“两岸统一”，也没人会停下脚步。但如果写：“全校禁止使用网络”。肯定会引起暴动。所以统独对现在的年轻人来说是假议题。我去过大陆10几次，年轻助理一路上都赞美大陆，但发现上不了GOOGLE、FB… (2014年12月05日 14:21)
+ ---
 RT @williamlong: 总部设在华盛顿的“自由之家”发布了“2014网络自由度”报告，通过对全球65个国家的调研发现，世界上互联网最自由的国家是冰岛，其自由度被评估为6分。之后是爱沙尼亚（8分）、加拿大（15分），中国名列第三，不过是从后面数的。 (2014年12月05日 14:18)
  ---
 RT @williamlong: 动漫网站极影动漫和动漫花园等网站或遭有关部门封杀，网站已无法打开。这或将是继人人影视、射手网之后又一轮因版权问题而被关闭的影视类网站。极影动漫(<a href="http://bt.ktxp.com" target="_BLANK">bt.ktxp.com</a>)和动漫花园(<a href="http://t.co/1Jb1QpDPG" target="_BLANK">t.co/1Jb1QpDPG</a>… (2014年12月05日 14:15)
@@ -111,6 +113,4 @@ RT @paopaonet: #兔泡泡Oo 来自公民实验室博客：66个不能在微博�
 Top US official urges Beijing to grant Hong Kong ‘meaningful choice’ in elections <a href="http://www.scmp.com/news/hong-kong/article/1655399/top-us-official-urges-beijing-grant-hong-kong-meaningful-choice" target="_BLANK">www.scmp.com/news/hong-kong/article/1655399/top-us-official-urges-beijing-grant-hong-kong-meaningful-choice</a> (2014年12月04日 14:52)
  ---
 RT @hnjhj: 通过展现民意达到政治目的，前提是政府必须在乎民意。这在民主国家可行，因为政府有义务听取民意，如果政府不听反对党会抢着听，所以不管政府听还是不听，只要能够聚集一定数量的人群，政治目的就必然达到。而这个前提在香港和中国是不存在的，政府可以完全忽略民意。 (2014年12月04日 14:47)
- ---
-RT @knifepoint: W说她不得不给幼儿园老师送礼。她孩子4岁。幼儿园老师明确地向家长索要。如果不送礼，会有很多「不方便」，比如午睡后老师不帮小孩穿衣服。小孩自己穿衣会穿得很慢，秋冬季节天气寒冷，孩子容易着凉。不送礼，孩子就会不断地感冒生病。我听着只觉恐怖，这国家各个… (2014年12月04日 13:02)
  ---
