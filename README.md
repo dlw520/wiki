@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+In the 'global struggle for Internet freedom,' the Internet is losing, report finds <a href="http://www.washingtonpost.com/blogs/the-switch/wp/2014/12/04/in-the-global-struggle-for-internet-freedom-the-internet-is-losing-report-finds/" target="_BLANK">www.washingtonpost.com/blogs/the-switch/wp/2014/12/04/in-the-global-struggle-for-internet-freedom-the-internet-is-losing-report-finds/</a> (2014年12月06日 04:18)
+ ---
 RT @breakingnewscn: 中共中央政治局会议审议并通过中共中央纪律检查委员会《关于周永康严重违纪案的审查报告》，决定给予周永康开除党籍处分，对其涉嫌犯罪问题及线索移送司法机关依法处理。 (2014年12月06日 01:18)
  ---
 RT @yancaiwm: 柯文哲：在台大校园立牌子“台湾独立”，没有人会理你。上面写“两岸统一”，也没人会停下脚步。但如果写：“全校禁止使用网络”。肯定会引起暴动。所以统独对现在的年轻人来说是假议题。我去过大陆10几次，年轻助理一路上都赞美大陆，但发现上不了GOOGLE、FB… (2014年12月05日 14:21)
@@ -111,6 +113,4 @@ RT @laokalaoka: 警棍当然可怕，催泪弹橡胶子弹当然可怕，坦克�
 RT @ChinaFile: Can China Conquer the Internet? Xiao Qiang @CDTimes @BerkeleyISchool joins the Conversation <a href="http://www.chinafile.com/conversation/can-china-conquer-internet?utm_content=buffer4b2ee&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#comment-951" target="_BLANK">www.chinafile.com/conversation/can-china-conquer-internet</a> http://t.… (2014年12月05日 03:34)
  ---
 RT @paopaonet: #兔泡泡Oo 来自公民实验室博客：66个不能在微博上发出的关键词列表<a href="https://github.com/jasonqng/weibo-data/blob/master/data/2014-11_66-words-you-cant-post-on-weibo.csv" target="_BLANK">github.com/jasonqng/weibo-data/blob/master/data/2014-11_66-words-you-cant-post-on-weibo.csv</a> ；133个会导致所发出微博不可见的关键词列表：<a href="https://github.com/jasonqng/weibo-data/blob/master/data/2014-11_133-keywords-which-cause-posts-to-be-hidden-invisible-on-weibo.csv" target="_BLANK">github.com/jasonqng/weibo-data/blob/master/data/2014-11_133-keywords-which-cause-posts-to-be-hidden-invisible-on-weibo.csv</a> <a href="http://t.co/fRww28G" target="_BLANK">t.co/fRww28G</a>… (2014年12月04日 15:05)
- ---
-Top US official urges Beijing to grant Hong Kong ‘meaningful choice’ in elections <a href="http://www.scmp.com/news/hong-kong/article/1655399/top-us-official-urges-beijing-grant-hong-kong-meaningful-choice" target="_BLANK">www.scmp.com/news/hong-kong/article/1655399/top-us-official-urges-beijing-grant-hong-kong-meaningful-choice</a> (2014年12月04日 14:52)
  ---
