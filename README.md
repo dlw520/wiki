@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @rediantoday: 动漫网站极影动漫和动漫花园等网站或遭有关部门封杀，网站已无法打开。这或将是继人人影视、射手网之后又一轮因版权问题而被关闭的影视类网站。极影动漫(<a href="http://bt.ktxp.com" target="_BLANK">bt.ktxp.com</a> <a href="http://redian.today/t/222617" target="_BLANK">redian.today/t/222617</a> http… (2014年12月05日 12:50)
+ ---
 RT @laoyang945: 群星最后的金色： “进毒气室了，你就不会憋气吗！？只要勤奋练习到憋足30分钟，虽然也有皮肤吸收，但毕竟生还率大了很多！” “契卡要枪决你，你就不会躲子弹吗！？自己跑的没有子弹快的loser，就不要什么都怪体制了！” (2014年12月05日 05:52)
  ---
 RT @remonwangxt: 聽說今天是貴國首個憲法紀念日啊，我記得這部憲法已經被黨日了很多年了呢，特作此畫紀念之 <a href="https://twitter.com/remonwangxt/status/540490111935197186/photo/1" target="_BLANK">twitter.com/remonwangxt/status/540490111935197186/photo/1</a> (2014年12月05日 05:51)
@@ -111,6 +113,4 @@ Hollywood Bows to Chinese Censors, Courts Investors <a href="http://www.bloomber
 RT @fightcensorship: 大家都知道中国有网络封锁，但对其他领域的封锁并不太了解。彭博社发文说，好莱坞向中国低头，为了进入中国市场屈服中国政府的要求，对某些场景进行过滤和删除。如今大连万达要收购好莱坞制片公司，阿里巴巴的马云也要成为合作伙伴，好莱坞已经不独立了。… (2014年12月04日 12:57)
  ---
 RT @paopaonet: 俄罗斯程序员集体吐槽Github被封锁：“就为了要封锁一份根本无人关心的文件？不是玩真的吧？太他妈变态了。” 他们对俄政府是否解封Github报消极态度  <a href="https://paopao3.azurewebsites.net/article/293" target="_BLANK">paopao3.azurewebsites.net/article/293</a> <a href="https://twitter.com/paopaonet/status/540204041331286016/photo/1" target="_BLANK">twitter.com/paopaonet/status/540204041331286016/photo/1</a> (2014年12月04日 11:28)
- ---
-China celebrating constitution day which includes freedom of speech. Comments of the report cannot be displayed. <a href="https://twitter.com/GreatFireChina/status/540346331072434177/photo/1" target="_BLANK">twitter.com/GreatFireChina/status/540346331072434177/photo/1</a> (2014年12月04日 11:26)
  ---
