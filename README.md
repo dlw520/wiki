@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,12 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @hu_jia: 我家阳台前两棵树被砍去了三分之二树冠，监视我的阳台及主卧飘窗很容易。但我前方的视野也开阔了。清晰地看到停在我家阳台正前下方栅栏外的警车。号码是“京A9999警”，万里挑一。#APEC2014 #自由城的囚徒 <a href="https://twitter.com/hu_jia/status/531063022488260608/photo/1" target="_BLANK">twitter.com/hu_jia/status/531063022488260608/photo/1</a> (2014年12月06日 13:09)
+ ---
+RT @Vela1680: 我重启了一个新的XP镜像 设置百度DNS 访问百度  现在出门 晚上回来看看什么后果 <a href="https://twitter.com/Vela1680/status/541096271914622977/photo/1" target="_BLANK">twitter.com/Vela1680/status/541096271914622977/photo/1</a> (2014年12月06日 13:07)
+ ---
+GitHub 把俄国发给他的 takedown notice 给发出来了…… <a href="https://v2ex.com/t/151894" target="_BLANK">v2ex.com/t/151894</a> (2014年12月06日 13:00)
+ ---
 RT @dshydn: @fangshimin @GreatFireChina "6亿网民“是鲁炜的网名，大家别误会。 (2014年12月06日 12:25)
  ---
 RT @fangshimin: 我想必不属于中国6亿网民之一。【鲁炜星期三在华盛顿说： “中国6亿网民可以自由发表意见”】 (2014年12月06日 12:11)
@@ -107,10 +113,4 @@ RT @remonwangxt: 聽說今天是貴國首個憲法紀念日啊，我記得這部
 RT @williamlong: 【网站反屏蔽的方法】很多网站管理员可能会遇到这种情况，自己的网站突然之间无法从国内访问了，遇到这种情况后，网站主如何应对，这里就介绍几个站长反屏蔽的常见方法。... <a href="http://www.williamlong.info/archives/4064.html" target="_BLANK">www.williamlong.info/archives/4064.html</a> (2014年12月05日 05:49)
  ---
 RT @paopaonet: #泡泡快讯 【台湾逮捕首名大陆间谍】大陆籍男子镇小江吸收台湾退役飞行官员周自立，透过周在台湾发展间谍网络，并取得军中机密，辗转交给大陆情报单位。台湾国安局表示，镇小江已被捕，目前正由司法侦办中。<a href="http://www.nanzao.com/sc/hk/43813/tai-zheng-shi-dai-bu-shou-ming-zai-tai-da-lu-ji-jian-die" target="_BLANK">www.nanzao.com/sc/hk/43813/tai-zheng-shi-dai-bu-shou-ming-zai-tai-da-lu-ji-jian-die</a> (2014年12月05日 05:11)
- ---
-他的履历让我印象深刻，知名学府浙江大学硕士毕业，曾任职于世界500强外企。而他最终选择返回老家担任一个月薪仅3000元的网络舆情分析师。至于是否喜欢他这份未来的舆情管理工作，肖冬反问道，“哪有那么多的喜欢和满意？就这样，挺好的。 <a href="https://paopao3.azurewebsites.net/article/153" target="_BLANK">paopao3.azurewebsites.net/article/153</a> (2014年12月05日 05:09)
- ---
-China Tried To Get World Internet Conference Attendees To Ratify This Ridiculous Draft Declaration <a href="http://techcrunch.com/2014/11/20/worldinternetconference-declaration/" target="_BLANK">techcrunch.com/2014/11/20/worldinternetconference-declaration/</a> (2014年12月05日 04:44)
- ---
-RT @paopaonet: 互联网大会闭幕式前夜晚间十一点左右，与会代表的酒店房间门缝里塞进来一份“神秘文件” - “乌镇宣言”，内容包括各种“中国特色”的互联网经贸，互联网主权和网络安全等内容 @TechCrunch 在报道中形容其为“荒唐滑稽，令人不安”。https://… (2014年12月05日 04:39)
  ---
