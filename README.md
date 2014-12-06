@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @fangshimin: 我想必不属于中国6亿网民之一。【鲁炜星期三在华盛顿说： “中国6亿网民可以自由发表意见”】 (2014年12月06日 12:11)
+ ---
 RT @StarKnight: 网易真牛逼，一条新闻能当五条发… <a href="https://twitter.com/StarKnight/status/540923439993720833/photo/1" target="_BLANK">twitter.com/StarKnight/status/540923439993720833/photo/1</a> (2014年12月06日 12:09)
  ---
 RT @Edourdoo: Zhou Yongkang has been officially kicked out of the Communist Party,  #大约在零点零分发 <a href="https://twitter.com/Edourdoo/status/541051097134010368/photo/1" target="_BLANK">twitter.com/Edourdoo/status/541051097134010368/photo/1</a> (2014年12月06日 10:28)
@@ -111,6 +113,4 @@ China Tried To Get World Internet Conference Attendees To Ratify This Ridiculous
 RT @paopaonet: 互联网大会闭幕式前夜晚间十一点左右，与会代表的酒店房间门缝里塞进来一份“神秘文件” - “乌镇宣言”，内容包括各种“中国特色”的互联网经贸，互联网主权和网络安全等内容 @TechCrunch 在报道中形容其为“荒唐滑稽，令人不安”。https://… (2014年12月05日 04:39)
  ---
 RT @mranti: 肯尼亚警方发现一处疑似进行网络攻击的据点，现场抓了77个中国人。#靠搞什么飞机 <a href="http://www.nation.co.ke/news/77-Chinese-held-in-cyber-bust/-/1056/2543786/-/t5vf43/-/index.html" target="_BLANK">www.nation.co.ke/news/77-Chinese-held-in-cyber-bust/-/1056/2543786/-/t5vf43/-/index.html</a> (2014年12月05日 04:39)
- ---
-RT @RTKcn: 17+ RT @chengr28: 大概知道为什么要整弹幕了ww <a href="https://twitter.com/chengr28/status/540492144637931520/photo/1" target="_BLANK">twitter.com/chengr28/status/540492144637931520/photo/1</a> (2014年12月05日 04:28)
  ---
