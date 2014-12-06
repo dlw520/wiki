@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @VOAJiangHe: 何清涟: 周永康泄露了哪些“国家机密”？<a href="http://www.voachinese.com/content/heqinglian-blog-zhou-yongkang-20141205/2548210.html" target="_BLANK">www.voachinese.com/content/heqinglian-blog-zhou-yongkang-20141205/2548210.html</a>仅以《中国离岸金融解密》报告所涉资料来看，涉及人数共有37,000多名，高层家族成员上百位。这份报告充分暴露了中共盗贼型政权的本质，对中共形象伤害极大 http:… (2014年12月06日 14:57)
+ ---
 RT @MikeVanriel2: The tale of 2 New York Newspapers: <a href="https://twitter.com/MikeVanriel2/status/540491521930579969/photo/1" target="_BLANK">twitter.com/MikeVanriel2/status/540491521930579969/photo/1</a> (2014年12月06日 13:25)
  ---
 RT @hu_jia: 我家阳台前两棵树被砍去了三分之二树冠，监视我的阳台及主卧飘窗很容易。但我前方的视野也开阔了。清晰地看到停在我家阳台正前下方栅栏外的警车。号码是“京A9999警”，万里挑一。#APEC2014 #自由城的囚徒 <a href="https://twitter.com/hu_jia/status/531063022488260608/photo/1" target="_BLANK">twitter.com/hu_jia/status/531063022488260608/photo/1</a> (2014年12月06日 13:09)
@@ -111,6 +113,4 @@ RT @rediantoday: 动漫网站极影动漫和动漫花园等网站或遭有关部
 RT @laoyang945: 群星最后的金色： “进毒气室了，你就不会憋气吗！？只要勤奋练习到憋足30分钟，虽然也有皮肤吸收，但毕竟生还率大了很多！” “契卡要枪决你，你就不会躲子弹吗！？自己跑的没有子弹快的loser，就不要什么都怪体制了！” (2014年12月05日 05:52)
  ---
 RT @remonwangxt: 聽說今天是貴國首個憲法紀念日啊，我記得這部憲法已經被黨日了很多年了呢，特作此畫紀念之 <a href="https://twitter.com/remonwangxt/status/540490111935197186/photo/1" target="_BLANK">twitter.com/remonwangxt/status/540490111935197186/photo/1</a> (2014年12月05日 05:51)
- ---
-RT @williamlong: 【网站反屏蔽的方法】很多网站管理员可能会遇到这种情况，自己的网站突然之间无法从国内访问了，遇到这种情况后，网站主如何应对，这里就介绍几个站长反屏蔽的常见方法。... <a href="http://www.williamlong.info/archives/4064.html" target="_BLANK">www.williamlong.info/archives/4064.html</a> (2014年12月05日 05:49)
  ---
