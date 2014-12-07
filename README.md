@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+全平台翻墙指南（PC＋安卓＋iOS+Mac+Linux）[2014.12更新] <a href="https://lantern1.azurewebsites.net/viewtopic.php?f=1&t=15&p=26" target="_BLANK">lantern1.azurewebsites.net/viewtopic.php</a> (2014年12月08日 07:29)
+ ---
 RT @shell909090: 射手网被关闭，远比人人被关影响更加深远。人人尚有盗版一说，射手就是个纯做字幕的。人人是被强制关闭的，而射手紧随其后。让我们以为不涉盗版就可以免于一死的天真想法瞬时破灭——既没有钱，又要担风险和压力，凭什么要求别人如此奉献呢？ (2014年12月08日 03:20)
  ---
 极影动漫恢复了 <a href="http://bt.ktxp.com/" target="_BLANK">bt.ktxp.com/</a> 服务器放在了香港。<a href="https://zh.greatfire.org/bt.ktxp.com" target="_BLANK">zh.greatfire.org/bt.ktxp.com</a> (2014年12月08日 03:17)
@@ -111,6 +113,4 @@ RT @yancaiwm: 柯文哲：在台大校园立牌子“台湾独立”，没有人
 RT @williamlong: 总部设在华盛顿的“自由之家”发布了“2014网络自由度”报告，通过对全球65个国家的调研发现，世界上互联网最自由的国家是冰岛，其自由度被评估为6分。之后是爱沙尼亚（8分）、加拿大（15分），中国名列第三，不过是从后面数的。 (2014年12月05日 14:18)
  ---
 RT @williamlong: 动漫网站极影动漫和动漫花园等网站或遭有关部门封杀，网站已无法打开。这或将是继人人影视、射手网之后又一轮因版权问题而被关闭的影视类网站。极影动漫(<a href="http://bt.ktxp.com" target="_BLANK">bt.ktxp.com</a>)和动漫花园(<a href="http://t.co/1Jb1QpDPG" target="_BLANK">t.co/1Jb1QpDPG</a>… (2014年12月05日 14:15)
- ---
-RT @paopaonet: 全球首家漏洞响应平台“补天”上线。作为连接企业与白帽子的专业平台，“补天”将通过帮助企业建立SRC，让企业网络安全，让白帽获得收益，最大程度保障企业网络安全。哦对了，这个平台是360推出的<a href="https://paopao3.azurewebsites.net/article/280" target="_BLANK">paopao3.azurewebsites.net/article/280</a> http:/… (2014年12月05日 13:19)
  ---
