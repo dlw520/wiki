@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @oubiaofeng: 深圳青年公民汪龍 @cnlong1988 的家人昨天也已收到當局遲遲寄來的獲獎榮譽證書⋯⋯ <a href="https://twitter.com/oubiaofeng/status/541125848640651264/photo/1" target="_BLANK">twitter.com/oubiaofeng/status/541125848640651264/photo/1</a> (2014年12月07日 15:04)
+ ---
+RT @shell909090: 极影的bt跪了，bilibili上好多动漫根本看不到，不是没有就是在整改。我想了个办法，在天国，上索马里论坛，找英文字幕，看日本动漫。唯一的问题是我本来中-日翻译技能点涨的很快，现在看来要变成日-英技能了。这么下去中文将是我唯一不会的语言。 #… (2014年12月07日 15:04)
+ ---
 RT @VOAJiangHe: 何清涟: 周永康泄露了哪些“国家机密”？<a href="http://www.voachinese.com/content/heqinglian-blog-zhou-yongkang-20141205/2548210.html" target="_BLANK">www.voachinese.com/content/heqinglian-blog-zhou-yongkang-20141205/2548210.html</a>仅以《中国离岸金融解密》报告所涉资料来看，涉及人数共有37,000多名，高层家族成员上百位。这份报告充分暴露了中共盗贼型政权的本质，对中共形象伤害极大 http:… (2014年12月06日 14:57)
  ---
 RT @MikeVanriel2: The tale of 2 New York Newspapers: <a href="https://twitter.com/MikeVanriel2/status/540491521930579969/photo/1" target="_BLANK">twitter.com/MikeVanriel2/status/540491521930579969/photo/1</a> (2014年12月06日 13:25)
@@ -109,8 +113,4 @@ RT @paopaonet: 全球首家漏洞响应平台“补天”上线。作为连接�
 RT @Leaskh: 百度 DNS 依然是练过葵花宝典的嘛，废物，鉴定完毕。 <a href="https://twitter.com/Leaskh/status/540537715356229632/photo/1" target="_BLANK">twitter.com/Leaskh/status/540537715356229632/photo/1</a> (2014年12月05日 13:04)
  ---
 RT @rediantoday: 动漫网站极影动漫和动漫花园等网站或遭有关部门封杀，网站已无法打开。这或将是继人人影视、射手网之后又一轮因版权问题而被关闭的影视类网站。极影动漫(<a href="http://bt.ktxp.com" target="_BLANK">bt.ktxp.com</a> <a href="http://redian.today/t/222617" target="_BLANK">redian.today/t/222617</a> http… (2014年12月05日 12:50)
- ---
-RT @laoyang945: 群星最后的金色： “进毒气室了，你就不会憋气吗！？只要勤奋练习到憋足30分钟，虽然也有皮肤吸收，但毕竟生还率大了很多！” “契卡要枪决你，你就不会躲子弹吗！？自己跑的没有子弹快的loser，就不要什么都怪体制了！” (2014年12月05日 05:52)
- ---
-RT @remonwangxt: 聽說今天是貴國首個憲法紀念日啊，我記得這部憲法已經被黨日了很多年了呢，特作此畫紀念之 <a href="https://twitter.com/remonwangxt/status/540490111935197186/photo/1" target="_BLANK">twitter.com/remonwangxt/status/540490111935197186/photo/1</a> (2014年12月05日 05:51)
  ---
