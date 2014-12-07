@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+极影动漫恢复了 <a href="http://bt.ktxp.com/" target="_BLANK">bt.ktxp.com/</a> 服务器放在了香港。<a href="https://zh.greatfire.org/bt.ktxp.com" target="_BLANK">zh.greatfire.org/bt.ktxp.com</a> (2014年12月08日 03:17)
+ ---
 RT @oubiaofeng: 深圳青年公民汪龍 @cnlong1988 的家人昨天也已收到當局遲遲寄來的獲獎榮譽證書⋯⋯ <a href="https://twitter.com/oubiaofeng/status/541125848640651264/photo/1" target="_BLANK">twitter.com/oubiaofeng/status/541125848640651264/photo/1</a> (2014年12月07日 15:04)
  ---
 RT @shell909090: 极影的bt跪了，bilibili上好多动漫根本看不到，不是没有就是在整改。我想了个办法，在天国，上索马里论坛，找英文字幕，看日本动漫。唯一的问题是我本来中-日翻译技能点涨的很快，现在看来要变成日-英技能了。这么下去中文将是我唯一不会的语言。 #… (2014年12月07日 15:04)
@@ -111,6 +113,4 @@ RT @williamlong: 动漫网站极影动漫和动漫花园等网站或遭有关部
 RT @paopaonet: 全球首家漏洞响应平台“补天”上线。作为连接企业与白帽子的专业平台，“补天”将通过帮助企业建立SRC，让企业网络安全，让白帽获得收益，最大程度保障企业网络安全。哦对了，这个平台是360推出的<a href="https://paopao3.azurewebsites.net/article/280" target="_BLANK">paopao3.azurewebsites.net/article/280</a> http:/… (2014年12月05日 13:19)
  ---
 RT @Leaskh: 百度 DNS 依然是练过葵花宝典的嘛，废物，鉴定完毕。 <a href="https://twitter.com/Leaskh/status/540537715356229632/photo/1" target="_BLANK">twitter.com/Leaskh/status/540537715356229632/photo/1</a> (2014年12月05日 13:04)
- ---
-RT @rediantoday: 动漫网站极影动漫和动漫花园等网站或遭有关部门封杀，网站已无法打开。这或将是继人人影视、射手网之后又一轮因版权问题而被关闭的影视类网站。极影动漫(<a href="http://bt.ktxp.com" target="_BLANK">bt.ktxp.com</a> <a href="http://redian.today/t/222617" target="_BLANK">redian.today/t/222617</a> http… (2014年12月05日 12:50)
  ---
