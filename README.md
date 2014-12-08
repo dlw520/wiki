@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,10 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @beidaijin: #禁令 「明年一月一日起我国取消死囚器官捐献」各地各网站，明年一月一日起我国取消死囚器官捐献一事不炒作，关闭评论。 (2014年12月08日 10:23)
+ ---
+RT @beidaijin: #禁令 「关于近期周永康案报道」关于近期的周永康案报道，一律要以新华网通稿为准，各媒体不可擅自解读，尤其要注意控制报道数量及网友评论。各媒体和网站留意近期稿件的转发要求。 (2014年12月08日 10:22)
+ ---
 RT @Air_Mu: 自称世界上最强大国家的美国连kickass.so和海盗湾啊NAYY.SE啊都对付不了。可见他妈的法制国家太弱了。我大国什么都没做（确实没有任何官方动作的新闻），连字幕站都灰飞烟灭了。#aBigCountryIsRising (2014年12月08日 07:45)
  ---
 RT @frankxu2004: 啥也别说了 <a href="https://twitter.com/frankxu2004/status/541601600737796096/photo/1" target="_BLANK">twitter.com/frankxu2004/status/541601600737796096/photo/1</a> (2014年12月08日 07:45)
@@ -109,8 +113,4 @@ RT @Edourdoo: Zhou Yongkang has been officially kicked out of the Communist Part
 《宪法日从提交议案到审议仅3天》 设立国家宪法日议案原本未列入全国人大常委会会议议程。 <a href="http://news.qq.com/a/20141206/004380.htm" target="_BLANK">news.qq.com/a/20141206/004380.htm</a> ／／这个是高级黑？ (2014年12月06日 09:34)
  ---
 In the 'global struggle for Internet freedom,' the Internet is losing, report finds <a href="http://www.washingtonpost.com/blogs/the-switch/wp/2014/12/04/in-the-global-struggle-for-internet-freedom-the-internet-is-losing-report-finds/" target="_BLANK">www.washingtonpost.com/blogs/the-switch/wp/2014/12/04/in-the-global-struggle-for-internet-freedom-the-internet-is-losing-report-finds/</a> (2014年12月06日 04:18)
- ---
-RT @breakingnewscn: 中共中央政治局会议审议并通过中共中央纪律检查委员会《关于周永康严重违纪案的审查报告》，决定给予周永康开除党籍处分，对其涉嫌犯罪问题及线索移送司法机关依法处理。 (2014年12月06日 01:18)
- ---
-RT @yancaiwm: 柯文哲：在台大校园立牌子“台湾独立”，没有人会理你。上面写“两岸统一”，也没人会停下脚步。但如果写：“全校禁止使用网络”。肯定会引起暴动。所以统独对现在的年轻人来说是假议题。我去过大陆10几次，年轻助理一路上都赞美大陆，但发现上不了GOOGLE、FB… (2014年12月05日 14:21)
  ---
