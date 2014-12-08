@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -89,8 +89,6 @@ RT @beidaijin: #禁令 「关于近期周永康案报道」关于近期的周永
  ---
 RT @Air_Mu: 自称世界上最强大国家的美国连kickass.so和海盗湾啊NAYY.SE啊都对付不了。可见他妈的法制国家太弱了。我大国什么都没做（确实没有任何官方动作的新闻），连字幕站都灰飞烟灭了。#aBigCountryIsRising (2014年12月08日 07:45)
  ---
-RT @frankxu2004: 啥也别说了 <a href="https://twitter.com/frankxu2004/status/541601600737796096/photo/1" target="_BLANK">twitter.com/frankxu2004/status/541601600737796096/photo/1</a> (2014年12月08日 07:45)
- ---
 全平台翻墙指南（PC＋安卓＋iOS+Mac+Linux）[2014.12更新] <a href="https://lantern1.azurewebsites.net/viewtopic.php?f=1&t=15&p=26" target="_BLANK">lantern1.azurewebsites.net/viewtopic.php</a> (2014年12月08日 07:29)
  ---
 RT @shell909090: 射手网被关闭，远比人人被关影响更加深远。人人尚有盗版一说，射手就是个纯做字幕的。人人是被强制关闭的，而射手紧随其后。让我们以为不涉盗版就可以免于一死的天真想法瞬时破灭——既没有钱，又要担风险和压力，凭什么要求别人如此奉献呢？ (2014年12月08日 03:20)
@@ -114,4 +112,6 @@ GitHub 把俄国发给他的 takedown notice 给发出来了…… <a href="http
 RT @dshydn: @fangshimin @GreatFireChina "6亿网民“是鲁炜的网名，大家别误会。 (2014年12月06日 12:25)
  ---
 RT @fangshimin: 我想必不属于中国6亿网民之一。【鲁炜星期三在华盛顿说： “中国6亿网民可以自由发表意见”】 (2014年12月06日 12:11)
+ ---
+RT @StarKnight: 网易真牛逼，一条新闻能当五条发… <a href="https://twitter.com/StarKnight/status/540923439993720833/photo/1" target="_BLANK">twitter.com/StarKnight/status/540923439993720833/photo/1</a> (2014年12月06日 12:09)
  ---
