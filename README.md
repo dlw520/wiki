@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -81,7 +81,7 @@ RT @hu_jia: #有党性没人性，共产党以冷血和残暴著称于世。香�
 RT @beidaijin: 驻港党宣文汇报【原京国安局长梁克或涉帮周永康监听 曾监听常委】原北京市国安局局长梁克，被调查的原因涉及帮助周永康利用国安情报系统进行监听。传梁克涉嫌监视部分中共中央政治局常委的行踪，2月被官方宣布免职，却未有其被双规消息。<a href="https://twitter.com/isaach" target="_BLANK">twitter.com/isaach</a>… (2014年12月08日 12:26)
  ---
 RT @nytchinese: 【阿桑奇：互联网一面是民主，另一面是暴政】互联网发展有其民主意义，但我们也要警惕其便利了政府监控，隐私权的崩塌加剧了统治者与大众的权力不平衡，奥威尔笔下的世界正在降临。
-<a href="http://cn.nytimes.com/opinion/20141208/c08assange/zh-hant/" target="_BLANK">cn.nytimes.com/opinion/20141208/c08assange/zh-hant/</a> <a href="http://t.co/jvs" target="_BLANK">t.co/jvs</a>… (2014年12月08日 12:24)
+<a href="http://cn.nytimes.com/opinion/20141208/c08assange/" target="_BLANK">cn.nytimes.com/opinion/20141208/c08assange/</a> <a href="http://t.co/jvs" target="_BLANK">t.co/jvs</a>… (2014年12月08日 12:24)
  ---
 RT @beidaijin: #禁令 「明年一月一日起我国取消死囚器官捐献」各地各网站，明年一月一日起我国取消死囚器官捐献一事不炒作，关闭评论。 (2014年12月08日 10:23)
  ---
