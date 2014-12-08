@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://dl.wu.ms.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @bbcchinese: 美众议院议员要求国会机构调查孔子学院: 美国众议院外交事务委员会成员向国会声称，由中国政府资助的孔子学院在美国大学课堂上禁止讨论有关中国的敏感话题，有关情况正在威胁美国学术自由。 <a href="http://www.bbc.co.uk/zhongwen/simp/world/2014/12/141205_us_china_university_ties" target="_BLANK">www.bbc.co.uk/zhongwen/simp/world/2014/12/141205_us_china_university_ties</a> (2014年12月08日 12:50)
+ ---
 RT @hu_jia: #有党性没人性，共产党以冷血和残暴著称于世。香港人还会经历更残酷的。@sntc06: 用絕食來對抗一個對西藏自焚都不理不睬的政權... 太令人難過了。 (2014年12月08日 12:49)
  ---
 RT @beidaijin: 驻港党宣文汇报【原京国安局长梁克或涉帮周永康监听 曾监听常委】原北京市国安局局长梁克，被调查的原因涉及帮助周永康利用国安情报系统进行监听。传梁克涉嫌监视部分中共中央政治局常委的行踪，2月被官方宣布免职，却未有其被双规消息。<a href="https://twitter.com/isaach" target="_BLANK">twitter.com/isaach</a>… (2014年12月08日 12:26)
@@ -112,6 +114,4 @@ GitHub 把俄国发给他的 takedown notice 给发出来了…… <a href="http
 RT @dshydn: @fangshimin @GreatFireChina "6亿网民“是鲁炜的网名，大家别误会。 (2014年12月06日 12:25)
  ---
 RT @fangshimin: 我想必不属于中国6亿网民之一。【鲁炜星期三在华盛顿说： “中国6亿网民可以自由发表意见”】 (2014年12月06日 12:11)
- ---
-RT @StarKnight: 网易真牛逼，一条新闻能当五条发… <a href="https://twitter.com/StarKnight/status/540923439993720833/photo/1" target="_BLANK">twitter.com/StarKnight/status/540923439993720833/photo/1</a> (2014年12月06日 12:09)
  ---
