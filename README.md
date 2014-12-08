@@ -12,7 +12,7 @@
             <td>            
                 <a href="https://paopao3.azurewebsites.net" target="jx1">短期有效 1</a>，            
                 <a href="https://d19ysv8o6fv16v.cloudfront.net" target="jx2">短期有效 2</a>，            
-                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
+                <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx3">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,9 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @nytchinese: 【阿桑奇：互联网一面是民主，另一面是暴政】互联网发展有其民主意义，但我们也要警惕其便利了政府监控，隐私权的崩塌加剧了统治者与大众的权力不平衡，奥威尔笔下的世界正在降临。
+<a href="http://cn.nytimes.com/opinion/20141208/c08assange/" target="_BLANK">cn.nytimes.com/opinion/20141208/c08assange/</a> <a href="http://t.co/jvs" target="_BLANK">t.co/jvs</a>… (2014年12月08日 12:24)
+ ---
 RT @beidaijin: #禁令 「明年一月一日起我国取消死囚器官捐献」各地各网站，明年一月一日起我国取消死囚器官捐献一事不炒作，关闭评论。 (2014年12月08日 10:23)
  ---
 RT @beidaijin: #禁令 「关于近期周永康案报道」关于近期的周永康案报道，一律要以新华网通稿为准，各媒体不可擅自解读，尤其要注意控制报道数量及网友评论。各媒体和网站留意近期稿件的转发要求。 (2014年12月08日 10:22)
@@ -111,6 +114,4 @@ RT @StarKnight: 网易真牛逼，一条新闻能当五条发… <a href="https:
 RT @Edourdoo: Zhou Yongkang has been officially kicked out of the Communist Party,  #大约在零点零分发 <a href="https://twitter.com/Edourdoo/status/541051097134010368/photo/1" target="_BLANK">twitter.com/Edourdoo/status/541051097134010368/photo/1</a> (2014年12月06日 10:28)
  ---
 《宪法日从提交议案到审议仅3天》 设立国家宪法日议案原本未列入全国人大常委会会议议程。 <a href="http://news.qq.com/a/20141206/004380.htm" target="_BLANK">news.qq.com/a/20141206/004380.htm</a> ／／这个是高级黑？ (2014年12月06日 09:34)
- ---
-In the 'global struggle for Internet freedom,' the Internet is losing, report finds <a href="http://www.washingtonpost.com/blogs/the-switch/wp/2014/12/04/in-the-global-struggle-for-internet-freedom-the-internet-is-losing-report-finds/" target="_BLANK">www.washingtonpost.com/blogs/the-switch/wp/2014/12/04/in-the-global-struggle-for-internet-freedom-the-internet-is-losing-report-finds/</a> (2014年12月06日 04:18)
  ---
