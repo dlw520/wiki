@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -35,7 +35,7 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx9">短期有效 1</a>，            
                 <a href="https://d2fstso2jh4dhr.cloudfront.net" target="jx10">短期有效 2</a>，            
-                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx11">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -43,7 +43,7 @@
             <td>            
                 <a href="https://39bf.azurewebsites.net" target="jx12">短期有效 1</a>，            
                 <a href="https://dazdu2iuzl72b.cloudfront.net" target="jx13">短期有效 2</a>，            
-                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
+                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx14">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -74,6 +74,8 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
+RT @hu_jia: #有党性没人性，共产党以冷血和残暴著称于世。香港人还会经历更残酷的。@sntc06: 用絕食來對抗一個對西藏自焚都不理不睬的政權... 太令人難過了。 (2014年12月08日 12:49)
+ ---
 RT @beidaijin: 驻港党宣文汇报【原京国安局长梁克或涉帮周永康监听 曾监听常委】原北京市国安局局长梁克，被调查的原因涉及帮助周永康利用国安情报系统进行监听。传梁克涉嫌监视部分中共中央政治局常委的行踪，2月被官方宣布免职，却未有其被双规消息。<a href="https://twitter.com/isaach" target="_BLANK">twitter.com/isaach</a>… (2014年12月08日 12:26)
  ---
 RT @nytchinese: 【阿桑奇：互联网一面是民主，另一面是暴政】互联网发展有其民主意义，但我们也要警惕其便利了政府监控，隐私权的崩塌加剧了统治者与大众的权力不平衡，奥威尔笔下的世界正在降临。
@@ -112,6 +114,4 @@ RT @dshydn: @fangshimin @GreatFireChina "6亿网民“是鲁炜的网名，大�
 RT @fangshimin: 我想必不属于中国6亿网民之一。【鲁炜星期三在华盛顿说： “中国6亿网民可以自由发表意见”】 (2014年12月06日 12:11)
  ---
 RT @StarKnight: 网易真牛逼，一条新闻能当五条发… <a href="https://twitter.com/StarKnight/status/540923439993720833/photo/1" target="_BLANK">twitter.com/StarKnight/status/540923439993720833/photo/1</a> (2014年12月06日 12:09)
- ---
-RT @Edourdoo: Zhou Yongkang has been officially kicked out of the Communist Party,  #大约在零点零分发 <a href="https://twitter.com/Edourdoo/status/541051097134010368/photo/1" target="_BLANK">twitter.com/Edourdoo/status/541051097134010368/photo/1</a> (2014年12月06日 10:28)
  ---
