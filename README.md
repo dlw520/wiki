@@ -27,7 +27,7 @@
             <td>            
                 <a href="https://865ba.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
+                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx8">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -51,7 +51,7 @@
             <td>            
                 <a href="https://lantern1.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
+                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -64,15 +64,15 @@
         <tr>
             <td>编程随想的博客</td>
             <td>            
-                <a href="https://d1l56n4y7tmrdy.cloudfront.net/" target="jx20">Beta 1</a>，            
-                <a href="https://pt1.global.ssl.fastly.net/" target="jx21">Beta 2</a>
+                <a href="https://pt3.global.ssl.fastly.net/" target="jx20">Beta 1</a>，            
+                <a href="https://d3r45cet3usdyi.cloudfront.net/" target="jx21">Beta 2</a>
             </td>
         </tr>    
         <tr>
             <td>人民监督网首页</td>
             <td>            
-                <a href="https://dng0kyy973rtj.cloudfront.net/" target="jx22">Beta 1</a>，            
-                <a href="https://rmjdw2.global.ssl.fastly.net/" target="jx23">Beta 2</a>
+                <a href="https://rmjdw2.global.ssl.fastly.net/" target="jx22">Beta 1</a>，            
+                <a href="https://d2pwipkj00sm9z.cloudfront.net/" target="jx23">Beta 2</a>
             </td>
         </tr>
     </tbody>
