@@ -22,8 +22,8 @@
             <td>            
                 <a href="https://bbc3.azurewebsites.net" target="jx6">短期有效 1</a>，            
                 <a href="https://d2jq89e8bit3j3.cloudfront.net" target="jx7">短期有效 2</a>，            
-                <a href="https://bbc2.global.ssl.fastly.net/" target="jx8">Beta 1</a>，            
-                <a href="https://d1syk2f6goqzr.cloudfront.net/" target="jx9">Beta 2</a>
+                <a href="https://d1syk2f6goqzr.cloudfront.net/" target="jx8">Beta 1</a>，            
+                <a href="https://d18hoyul31kh07.cloudfront.net/" target="jx9">Beta 2</a>
             </td>
         </tr>    
         <tr>
@@ -39,9 +39,9 @@
             <td>            
                 <a href="https://fw7.azurewebsites.net" target="jx13">短期有效 1</a>，            
                 <a href="https://d2apx3fwniaev7.cloudfront.net" target="jx14">短期有效 2</a>，            
-                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx15">长期有效* 1</a>，            
-                <a href="https://fw.global.ssl.fastly.net/" target="jx16">Beta 1</a>，            
-                <a href="https://d347t1jq2o5r0r.cloudfront.net/" target="jx17">Beta 2</a>
+                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx15">长期有效* 1</a>，            
+                <a href="https://d1px0u29yrtpxd.cloudfront.net/" target="jx16">Beta 1</a>，            
+                <a href="https://fw.global.ssl.fastly.net/" target="jx17">Beta 2</a>
             </td>
         </tr>    
         <tr>
@@ -49,7 +49,7 @@
             <td>            
                 <a href="https://cdt1.azurewebsites.net" target="jx18">短期有效 1</a>，            
                 <a href="https://d304dwl7tgk9ix.cloudfront.net" target="jx19">短期有效 2</a>，            
-                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx20">长期有效* 1</a>
+                <a href="https://dom.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="jx20">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -77,8 +77,8 @@
         <tr>
             <td>人民监督网首页</td>
             <td>            
-                <a href="https://rmjdw5.global.ssl.fastly.net/" target="jx28">Beta 1</a>，            
-                <a href="https://d1ns13b5v06dhs.cloudfront.net/" target="jx29">Beta 2</a>
+                <a href="https://d1ns13b5v06dhs.cloudfront.net/" target="jx28">Beta 1</a>，            
+                <a href="https://rmjdw3.global.ssl.fastly.net/" target="jx29">Beta 2</a>
             </td>
         </tr>
     </tbody>
