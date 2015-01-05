@@ -14,7 +14,7 @@
                 <a href="https://pp2.global.ssl.fastly.net/" target="jx2">Beta 2</a>，            
                 <a href="https://paopao8.azurewebsites.net" target="jx3">短期有效 1</a>，            
                 <a href="https://d32pt9ivjjofmj.cloudfront.net" target="jx4">短期有效 2</a>，            
-                <a href="https://a817.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx5">长期有效* 1</a>
+                <a href="https://a26.d.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx5">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -37,11 +37,11 @@
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="https://fw.global.ssl.fastly.net/" target="jx13">Beta 1</a>，            
+                <a href="https://fw1.global.ssl.fastly.net/" target="jx13">Beta 1</a>，            
                 <a href="https://d1px0u29yrtpxd.cloudfront.net/" target="jx14">Beta 2</a>，            
                 <a href="https://fw8.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://d2apx3fwniaev7.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a1835.g.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx17">长期有效* 1</a>
+                <a href="https://g2.cctv.com.edgesuite.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -57,7 +57,7 @@
             <td>            
                 <a href="https://lantern5.azurewebsites.net" target="jx21">短期有效 1</a>，            
                 <a href="https://d111u3mxrnneix.cloudfront.net" target="jx22">短期有效 2</a>，            
-                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx23">长期有效* 1</a>
+                <a href="https://a411.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="jx23">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -77,8 +77,8 @@
         <tr>
             <td>人民监督网首页</td>
             <td>            
-                <a href="https://rmjdw5.global.ssl.fastly.net/" target="jx28">Beta 1</a>，            
-                <a href="https://dng0kyy973rtj.cloudfront.net/" target="jx29">Beta 2</a>
+                <a href="https://d1ns13b5v06dhs.cloudfront.net/" target="jx28">Beta 1</a>，            
+                <a href="https://rmjdw5.global.ssl.fastly.net/" target="jx29">Beta 2</a>
             </td>
         </tr>
     </tbody>
