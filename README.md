@@ -10,8 +10,8 @@
         <tr>
             <td>泡泡</td>
             <td>            
-                <a href="https://pp2.global.ssl.fastly.net/" target="jx1">Beta 1</a>，            
-                <a href="https://d226tz0djk1mib.cloudfront.net/" target="jx2">Beta 2</a>，            
+                <a href="https://pp3.global.ssl.fastly.net/" target="jx1">Beta 1</a>，            
+                <a href="https://pp2.global.ssl.fastly.net/" target="jx2">Beta 2</a>，            
                 <a href="https://paopao8.azurewebsites.net" target="jx3">短期有效 1</a>，            
                 <a href="https://d32pt9ivjjofmj.cloudfront.net" target="jx4">短期有效 2</a>，            
                 <a href="https://main.dl.wu.akadns.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/p/" target="jx5">长期有效* 1</a>
@@ -20,8 +20,8 @@
         <tr>
             <td>BBC 中文网</td>
             <td>            
-                <a href="https://bbc.global.ssl.fastly.net/" target="jx6">Beta 1</a>，            
-                <a href="https://d18hoyul31kh07.cloudfront.net/" target="jx7">Beta 2</a>，            
+                <a href="https://d18hoyul31kh07.cloudfront.net/" target="jx6">Beta 1</a>，            
+                <a href="https://d1syk2f6goqzr.cloudfront.net/" target="jx7">Beta 2</a>，            
                 <a href="https://bbc3.azurewebsites.net" target="jx8">短期有效 1</a>，            
                 <a href="https://d2jq89e8bit3j3.cloudfront.net" target="jx9">短期有效 2</a>
             </td>
@@ -31,17 +31,17 @@
             <td>            
                 <a href="https://google1.azurewebsites.net" target="jx10">短期有效 1</a>，            
                 <a href="https://d3vv89cvqbrqlq.cloudfront.net" target="jx11">短期有效 2</a>，            
-                <a href="https://a1577.dspb.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx12">长期有效* 1</a>
+                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/g/" target="jx12">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
             <td>自由微博</td>
             <td>            
-                <a href="https://fw1.global.ssl.fastly.net/" target="jx13">Beta 1</a>，            
-                <a href="https://d1px0u29yrtpxd.cloudfront.net/" target="jx14">Beta 2</a>，            
+                <a href="https://fw.global.ssl.fastly.net/" target="jx13">Beta 1</a>，            
+                <a href="https://fw1.global.ssl.fastly.net/" target="jx14">Beta 2</a>，            
                 <a href="https://fw8.azurewebsites.net" target="jx15">短期有效 1</a>，            
                 <a href="https://d2apx3fwniaev7.cloudfront.net" target="jx16">短期有效 2</a>，            
-                <a href="https://a1574.b.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx17">长期有效* 1</a>
+                <a href="https://a859.g4.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/f/" target="jx17">长期有效* 1</a>
             </td>
         </tr>    
         <tr>
@@ -71,14 +71,14 @@
             <td>编程随想的博客</td>
             <td>            
                 <a href="https://d34w42arfi4222.cloudfront.net/" target="jx26">Beta 1</a>，            
-                <a href="https://pt1.global.ssl.fastly.net/" target="jx27">Beta 2</a>
+                <a href="https://pt2.global.ssl.fastly.net/" target="jx27">Beta 2</a>
             </td>
         </tr>    
         <tr>
             <td>人民监督网首页</td>
             <td>            
-                <a href="https://dng0kyy973rtj.cloudfront.net/" target="jx28">Beta 1</a>，            
-                <a href="https://rmjdw3.global.ssl.fastly.net/" target="jx29">Beta 2</a>
+                <a href="https://d20cawbzduqk25.cloudfront.net/" target="jx28">Beta 1</a>，            
+                <a href="https://dng0kyy973rtj.cloudfront.net/" target="jx29">Beta 2</a>
             </td>
         </tr>
     </tbody>
